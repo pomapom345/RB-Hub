@@ -1,0 +1,871 @@
+{
+    "_comment":  "Curated metadata for selected Nintendo Entertainment System entries. Entries not listed here still appear in the library using their filename-derived title and the platform\u0027s generic guidance.",
+    "nes/Super Mario Bros.nes":  {
+                                     "title":  "Super Mario Bros.",
+                                     "slug":  "super-mario-bros",
+                                     "group":  "super-mario-bros",
+                                     "year":  1985,
+                                     "developer":  "Nintendo EAD",
+                                     "publisher":  "Nintendo",
+                                     "genre":  "Platformer",
+                                     "desc":  "Mario runs through the Mushroom Kingdom to rescue Princess Peach, defining the side-scrolling platformer along the way.",
+                                     "history":  "Designed by Shigeru Miyamoto and Takashi Tezuka, Super Mario Bros. helped revive the North American console market after the 1983 crash."
+                                 },
+    "nes/Super_mario_brothers.nes":  {
+                                         "title":  "Super Mario Bros.",
+                                         "group":  "super-mario-bros",
+                                         "year":  1985,
+                                         "developer":  "Nintendo EAD",
+                                         "publisher":  "Nintendo",
+                                         "genre":  "Platformer",
+                                         "desc":  "An alternate filename of Super Mario Bros. present in the collection, using a different naming convention."
+                                     },
+    "nes/Super Mario Bros. 3.nes":  {
+                                        "title":  "Super Mario Bros. 3",
+                                        "slug":  "super-mario-bros-3",
+                                        "group":  "super-mario-bros-3",
+                                        "year":  1988,
+                                        "developer":  "Nintendo EAD",
+                                        "publisher":  "Nintendo",
+                                        "genre":  "Platformer",
+                                        "desc":  "Mario travels eight kingdoms with a world map, suits that grant flight and a frog form, and Koopalings as bosses.",
+                                        "history":  "Widely regarded as the definitive NES platformer, Super Mario Bros. 3 sold enormously and was later bundled with the NES in North America."
+                                    },
+    "nes/Smb3.nes":  {
+                         "title":  "Super Mario Bros. 3",
+                         "group":  "super-mario-bros-3",
+                         "year":  1988,
+                         "developer":  "Nintendo EAD",
+                         "publisher":  "Nintendo",
+                         "genre":  "Platformer",
+                         "desc":  "A short-filename copy of Super Mario Bros. 3 held in the collection."
+                     },
+    "nes/Super_mario_brothers3.nes":  {
+                                          "title":  "Super Mario Bros. 3",
+                                          "group":  "super-mario-bros-3",
+                                          "year":  1988,
+                                          "developer":  "Nintendo EAD",
+                                          "publisher":  "Nintendo",
+                                          "genre":  "Platformer",
+                                          "desc":  "Another filename variant of Super Mario Bros. 3 present in the collection."
+                                      },
+    "nes/Super_mario_brothers2.nes":  {
+                                          "title":  "Super Mario Bros. 2",
+                                          "year":  1988,
+                                          "developer":  "Nintendo EAD",
+                                          "publisher":  "Nintendo",
+                                          "genre":  "Platformer",
+                                          "desc":  "The Western Super Mario Bros. 2, a reworked Doki Doki Panic with four playable characters and a dream-world setting."
+                                      },
+    "nes/Zelda.nes":  {
+                          "title":  "The Legend of Zelda",
+                          "year":  1986,
+                          "developer":  "Nintendo EAD",
+                          "publisher":  "Nintendo",
+                          "genre":  "Adventure",
+                          "desc":  "An open-world adventure in which Link explores Hyrule, collects fragments of the Triforce and rescues Zelda from Ganon.",
+                          "history":  "The first console game with a battery-backed save, The Legend of Zelda established the action-adventure genre."
+                      },
+    "nes/Zelda2.nes":  {
+                           "title":  "Zelda II: The Adventure of Link",
+                           "year":  1987,
+                           "developer":  "Nintendo EAD",
+                           "publisher":  "Nintendo",
+                           "genre":  "Adventure",
+                           "desc":  "A side-scrolling sequel with experience points, towns and palaces, departing sharply from the first game\u0027s top-down design."
+                       },
+    "nes/Metroid.nes":  {
+                            "title":  "Metroid",
+                            "slug":  "metroid",
+                            "year":  1986,
+                            "developer":  "Nintendo R\u0026D1",
+                            "publisher":  "Nintendo",
+                            "genre":  "Action",
+                            "desc":  "Samus Aran explores the labyrinth of Zebes, finding power-ups that unlock new areas and fighting Mother Brain.",
+                            "history":  "Metroid introduced the non-linear exploration structure later named after the series, and its ending revealed Samus as a woman."
+                        },
+    "nes/Castlevania.nes":  {
+                                "title":  "Castlevania",
+                                "year":  1986,
+                                "developer":  "Konami",
+                                "publisher":  "Konami",
+                                "genre":  "Platformer",
+                                "desc":  "Simon Belmont whips his way through Dracula\u0027s castle, with stair-climbing, sub-weapons and a famous clock tower."
+                            },
+    "nes/Castlevania2.nes":  {
+                                 "title":  "Castlevania II: Simon\u0027s Quest",
+                                 "year":  1988,
+                                 "developer":  "Konami",
+                                 "publisher":  "Konami",
+                                 "genre":  "Adventure",
+                                 "desc":  "A non-linear sequel with day/night cycles, towns and a cryptic quest to lift Dracula\u0027s curse."
+                             },
+    "nes/castlevania3.nes":  {
+                                 "title":  "Castlevania III: Dracula\u0027s Curse",
+                                 "year":  1989,
+                                 "developer":  "Konami",
+                                 "publisher":  "Konami",
+                                 "genre":  "Platformer",
+                                 "desc":  "Trevor Belmont travels with three possible companions, choosing branching routes through Wallachia to reach Dracula."
+                             },
+    "nes/Contra.nes":  {
+                           "title":  "Contra",
+                           "year":  1988,
+                           "developer":  "Konami",
+                           "publisher":  "Konami",
+                           "genre":  "Shooter",
+                           "desc":  "A run-and-gun shooter with two-player co-op, spread guns and a famous 30-lives code.",
+                           "history":  "Contra was adapted into the NES launch-period hit with an added overhead stage, and its code (up, up, down, down...) became one of gaming\u0027s best-known secrets."
+                       },
+    "nes/Super_c.nes":  {
+                            "title":  "Super C",
+                            "year":  1990,
+                            "developer":  "Konami",
+                            "publisher":  "Konami",
+                            "genre":  "Shooter",
+                            "desc":  "The NES sequel to Contra, replacing the arcade port\u0027s stages with original levels and a top-down base assault."
+                        },
+    "nes/Megaman.nes":  {
+                            "title":  "Mega Man",
+                            "slug":  "mega-man",
+                            "group":  "mega-man",
+                            "year":  1987,
+                            "developer":  "Capcom",
+                            "publisher":  "Capcom",
+                            "genre":  "Platformer",
+                            "desc":  "Mega Man picks a stage order freely and earns each Robot Master\u0027s weapon, defining the series\u0027 core structure."
+                        },
+    "nes/Megaman2.nes":  {
+                             "title":  "Mega Man 2",
+                             "year":  1988,
+                             "developer":  "Capcom",
+                             "publisher":  "Capcom",
+                             "genre":  "Platformer",
+                             "desc":  "A refined sequel with eight Robot Masters, Energy Tanks and a celebrated soundtrack."
+                         },
+    "nes/Megaman3.nes":  {
+                             "title":  "Mega Man 3",
+                             "year":  1990,
+                             "developer":  "Capcom",
+                             "publisher":  "Capcom",
+                             "genre":  "Platformer",
+                             "desc":  "Adds the slide, Rush and Proto Man, doubling the Robot Master count with a second set of Doc Robots."
+                         },
+    "nes/Megaman 4.nes":  {
+                              "title":  "Mega Man 4",
+                              "year":  1991,
+                              "developer":  "Capcom",
+                              "publisher":  "Capcom",
+                              "genre":  "Platformer",
+                              "desc":  "Introduces the charged Mega Buster and a new antagonist, Dr. Cossack."
+                          },
+    "nes/Megaman 5.nes":  {
+                              "title":  "Mega Man 5",
+                              "year":  1992,
+                              "developer":  "Capcom",
+                              "publisher":  "Capcom",
+                              "genre":  "Platformer",
+                              "desc":  "Features Beat the robot bird and a plot centred on Proto Man\u0027s apparent betrayal."
+                          },
+    "nes/Megaman 6.nes":  {
+                              "title":  "Mega Man 6",
+                              "year":  1993,
+                              "developer":  "Capcom",
+                              "publisher":  "Capcom",
+                              "genre":  "Platformer",
+                              "desc":  "The final NES Mega Man, adding the Jet and Power adapters and a global tournament storyline."
+                          },
+    "nes/Ninja_gaiden.nes":  {
+                                 "title":  "Ninja Gaiden",
+                                 "year":  1988,
+                                 "developer":  "Tecmo",
+                                 "publisher":  "Tecmo",
+                                 "genre":  "Action",
+                                 "desc":  "Ryu Hayabusa fights through cinematic side-scrolling stages with wall jumps, a windmill shuriken and animated cutscenes."
+                             },
+    "nes/Ninja_gaiden2.nes":  {
+                                  "title":  "Ninja Gaiden II: The Dark Sword of Chaos",
+                                  "year":  1990,
+                                  "developer":  "Tecmo",
+                                  "publisher":  "Tecmo",
+                                  "genre":  "Action",
+                                  "desc":  "A sequel adding clone shadows, more vertical level design and a longer story."
+                              },
+    "nes/Ninja_gaiden3.nes":  {
+                                  "title":  "Ninja Gaiden III: The Ancient Ship of Doom",
+                                  "year":  1991,
+                                  "developer":  "Tecmo",
+                                  "publisher":  "Tecmo",
+                                  "genre":  "Action",
+                                  "desc":  "The final NES Ninja Gaiden, with a limited continue system and a more punishing difficulty curve."
+                              },
+    "nes/final_fantasy.nes":  {
+                                  "title":  "Final Fantasy",
+                                  "year":  1987,
+                                  "developer":  "Square",
+                                  "publisher":  "Nintendo",
+                                  "genre":  "RPG",
+                                  "desc":  "Four Light Warriors restore the crystals in the RPG that established the series, with a job class system and airship travel."
+                              },
+    "nes/Dragon_warrior.nes":  {
+                                   "title":  "Dragon Warrior",
+                                   "year":  1986,
+                                   "developer":  "Chunsoft",
+                                   "publisher":  "Nintendo",
+                                   "genre":  "RPG",
+                                   "desc":  "The North American release of Dragon Quest, a turn-based RPG in which the hero saves a kingdom from the Dragonlord."
+                               },
+    "nes/Dragon_warrior2.nes":  {
+                                    "title":  "Dragon Warrior II",
+                                    "year":  1987,
+                                    "developer":  "Chunsoft",
+                                    "publisher":  "Enix",
+                                    "genre":  "RPG",
+                                    "desc":  "A larger world with a party of three and a ship, expanding the original\u0027s structure."
+                                },
+    "nes/Dragon_warrior3.nes":  {
+                                    "title":  "Dragon Warrior III",
+                                    "year":  1988,
+                                    "developer":  "Chunsoft",
+                                    "publisher":  "Enix",
+                                    "genre":  "RPG",
+                                    "desc":  "Introduces a class-changing party system and a world that connects back to the first game."
+                                },
+    "nes/Dragon_warrior4.nes":  {
+                                    "title":  "Dragon Warrior IV",
+                                    "year":  1990,
+                                    "developer":  "Chunsoft",
+                                    "publisher":  "Enix",
+                                    "genre":  "RPG",
+                                    "desc":  "Tells its story in chapters following separate characters before uniting them in a final chapter."
+                                },
+    "nes/Duck_hunt.nes":  {
+                              "title":  "Duck Hunt",
+                              "year":  1984,
+                              "developer":  "Nintendo R\u0026D1",
+                              "publisher":  "Nintendo",
+                              "genre":  "Shooter",
+                              "desc":  "A light-gun shooting game in which the player shoots ducks and clay pigeons, with the laughing dog as its mascot."
+                          },
+    "nes/Punch Out.nes":  {
+                              "title":  "Punch-Out!!",
+                              "group":  "punch-out-nes",
+                              "year":  1987,
+                              "developer":  "Nintendo R\u0026D3",
+                              "publisher":  "Nintendo",
+                              "genre":  "Sports",
+                              "desc":  "Little Mac climbs the boxing ranks, learning each opponent\u0027s tells across a memorable cast of fighters."
+                          },
+    "nes/Mike_tyson\u0027s_punch_out.nes":  {
+                                                "title":  "Mike Tyson\u0027s Punch-Out!!",
+                                                "group":  "punch-out-nes",
+                                                "year":  1987,
+                                                "developer":  "Nintendo R\u0026D3",
+                                                "publisher":  "Nintendo",
+                                                "genre":  "Sports",
+                                                "desc":  "The original release of Punch-Out!! featuring Mike Tyson as the final opponent, later replaced by Mr. Dream."
+                                            },
+    "nes/Tetris.nes":  {
+                           "title":  "Tetris",
+                           "year":  1989,
+                           "developer":  "Nintendo R\u0026D1",
+                           "publisher":  "Nintendo",
+                           "genre":  "Puzzle",
+                           "desc":  "The NES version of Tetris, with the flat \u0027Type A\u0027 mode and the rising-garbage \u0027Type B\u0027 mode."
+                       },
+    "nes/Kirby\u0027s_adventure.nes":  {
+                                           "title":  "Kirby\u0027s Adventure",
+                                           "year":  1993,
+                                           "developer":  "HAL Laboratory",
+                                           "publisher":  "Nintendo",
+                                           "genre":  "Platformer",
+                                           "desc":  "Kirby inhales enemies to gain copy abilities across Dream Land, in one of the NES\u0027s most technically impressive late titles."
+                                       },
+    "nes/Kid_icarus.nes":  {
+                               "title":  "Kid Icarus",
+                               "year":  1986,
+                               "developer":  "Nintendo R\u0026D1",
+                               "publisher":  "Nintendo",
+                               "genre":  "Platformer",
+                               "desc":  "Pit climbs from the underworld to Skyworld, mixing vertical platforming with shops and dungeons."
+                           },
+    "nes/Excite_bike.nes":  {
+                                "title":  "Excitebike",
+                                "year":  1984,
+                                "developer":  "Nintendo R\u0026D1",
+                                "publisher":  "Nintendo",
+                                "genre":  "Racing",
+                                "desc":  "A motocross time trial with a track editor and a temperature gauge that punishes over-revving."
+                            },
+    "nes/Ice_climber.nes":  {
+                                "title":  "Ice Climber",
+                                "year":  1985,
+                                "developer":  "Nintendo R\u0026D1",
+                                "publisher":  "Nintendo",
+                                "genre":  "Platformer",
+                                "desc":  "Popo and Nana climb icy mountains, breaking blocks and dodging topis and polar bears in two-player play."
+                            },
+    "nes/Bubble_bobble.nes":  {
+                                  "title":  "Bubble Bobble",
+                                  "year":  1988,
+                                  "developer":  "Taito",
+                                  "publisher":  "Taito",
+                                  "genre":  "Platformer",
+                                  "desc":  "The NES conversion of Taito\u0027s bubble-trapping platformer, with two-player co-op and a hundred stages."
+                              },
+    "nes/Bubble_bobble2.nes":  {
+                                   "title":  "Bubble Bobble Part 2",
+                                   "year":  1993,
+                                   "developer":  "Taito",
+                                   "publisher":  "Taito",
+                                   "genre":  "Platformer",
+                                   "desc":  "A sequel with new enemies, larger levels and a different progression structure."
+                               },
+    "nes/Gradius.nes":  {
+                            "title":  "Gradius",
+                            "year":  1986,
+                            "developer":  "Konami",
+                            "publisher":  "Konami",
+                            "genre":  "Shooter",
+                            "desc":  "A horizontal shooter built around a power-up bar that upgrades speed, missiles, lasers and options."
+                        },
+    "nes/Life_force.nes":  {
+                               "title":  "Life Force",
+                               "year":  1988,
+                               "developer":  "Konami",
+                               "publisher":  "Konami",
+                               "genre":  "Shooter",
+                               "desc":  "A Gradius spin-off set inside a living alien, with two-player co-op and organic stage design."
+                           },
+    "nes/Metal Gear.nes":  {
+                               "title":  "Metal Gear",
+                               "year":  1987,
+                               "developer":  "Konami",
+                               "publisher":  "Konami",
+                               "genre":  "Action",
+                               "desc":  "Solid Snake infiltrates Outer Heaven, avoiding detection and gathering items in an early stealth-action game."
+                           },
+    "nes/Crystalis.nes":  {
+                              "title":  "Crystalis",
+                              "year":  1990,
+                              "developer":  "SNK",
+                              "publisher":  "SNK",
+                              "genre":  "RPG",
+                              "desc":  "A post-apocalyptic action RPG with real-time sword combat, elemental weapons and a large overworld."
+                          },
+    "nes/Faxanadu.nes":  {
+                             "title":  "Faxanadu",
+                             "year":  1987,
+                             "developer":  "Hudson Soft",
+                             "publisher":  "Nintendo",
+                             "genre":  "RPG",
+                             "desc":  "A side-scrolling action RPG in which a wanderer restores a dying world tree, using shops, mantras and equipment."
+                         },
+    "nes/river_city_ransom.nes":  {
+                                      "title":  "River City Ransom",
+                                      "year":  1989,
+                                      "developer":  "Technos",
+                                      "publisher":  "American Technos",
+                                      "genre":  "Fighting",
+                                      "desc":  "A beat-\u0027em-up with RPG elements, shops and free roaming across River City."
+                                  },
+    "nes/Double_dragon.nes":  {
+                                  "title":  "Double Dragon",
+                                  "year":  1988,
+                                  "developer":  "Technos",
+                                  "publisher":  "Tradewest",
+                                  "genre":  "Fighting",
+                                  "desc":  "The NES adaptation of the arcade brawler, adding a two-player mode and a level-up system for moves."
+                              },
+    "nes/Double_dragon2.nes":  {
+                                   "title":  "Double Dragon II: The Revenge",
+                                   "year":  1989,
+                                   "developer":  "Technos",
+                                   "publisher":  "Acclaim",
+                                   "genre":  "Fighting",
+                                   "desc":  "A sequel with directional attacks, platforming sections and two-player co-op."
+                               },
+    "nes/Double_dragon3.nes":  {
+                                   "title":  "Double Dragon III: The Sacred Stones",
+                                   "year":  1990,
+                                   "developer":  "Technos",
+                                   "publisher":  "Acclaim",
+                                   "genre":  "Fighting",
+                                   "desc":  "The third NES Double Dragon, with multiple playable characters and limited continues."
+                               },
+    "nes/Battle_toads.nes":  {
+                                 "title":  "Battletoads",
+                                 "year":  1991,
+                                 "developer":  "Rare",
+                                 "publisher":  "Tradewest",
+                                 "genre":  "Fighting",
+                                 "desc":  "A notoriously difficult brawler with vehicle stages, including the speeder bike level."
+                             },
+    "nes/Duck_tales.nes":  {
+                               "title":  "DuckTales",
+                               "year":  1989,
+                               "developer":  "Capcom",
+                               "publisher":  "Capcom",
+                               "genre":  "Platformer",
+                               "desc":  "Scrooge McDuck pogo-jumps through five stages in any order, searching for treasures and the moon\u0027s hidden level."
+                           },
+    "nes/Bionic_commando.nes":  {
+                                    "title":  "Bionic Commando",
+                                    "year":  1988,
+                                    "developer":  "Capcom",
+                                    "publisher":  "Capcom",
+                                    "genre":  "Action",
+                                    "desc":  "A grappling-hook action game in which Ladd Spencer swings across military installations without a jump button."
+                                },
+    "nes/Blaster_master.nes":  {
+                                   "title":  "Blaster Master",
+                                   "year":  1988,
+                                   "developer":  "Sunsoft",
+                                   "publisher":  "Sunsoft",
+                                   "genre":  "Action",
+                                   "desc":  "A vehicle-and-on-foot adventure in which Jason explores a subterranean world in the SOPHIA tank."
+                               },
+    "nes/Batman.nes":  {
+                           "title":  "Batman: The Video Game",
+                           "year":  1989,
+                           "developer":  "Sunsoft",
+                           "publisher":  "Sunsoft",
+                           "genre":  "Platformer",
+                           "desc":  "A stylish platformer based on the 1989 film, with wall jumps and a memorable Sunsoft soundtrack."
+                       },
+    "nes/Marble_madness.nes":  {
+                                   "title":  "Marble Madness",
+                                   "year":  1989,
+                                   "developer":  "Rare",
+                                   "publisher":  "Milton Bradley",
+                                   "genre":  "Arcade",
+                                   "desc":  "The NES conversion of Atari\u0027s isometric marble race, controlled with the D-pad."
+                               },
+    "nes/Rampage.nes":  {
+                            "title":  "Rampage",
+                            "year":  1988,
+                            "developer":  "Bally Midway",
+                            "publisher":  "Data East",
+                            "genre":  "Action",
+                            "desc":  "The NES version of the monster-smashing arcade game, with three selectable creatures."
+                        },
+    "nes/Kung_fu.nes":  {
+                            "title":  "Kung Fu",
+                            "year":  1985,
+                            "developer":  "Irem",
+                            "publisher":  "Nintendo",
+                            "genre":  "Fighting",
+                            "desc":  "A vertically scrolling beat-\u0027em-up in which Thomas rescues Sylvia from five floors of martial artists."
+                        },
+    "nes/Popeye.nes":  {
+                           "title":  "Popeye",
+                           "year":  1983,
+                           "developer":  "Nintendo",
+                           "publisher":  "Nintendo",
+                           "genre":  "Platformer",
+                           "desc":  "The NES port of Nintendo\u0027s arcade game, with Popeye collecting hearts and spinach while avoiding Bluto."
+                       },
+    "nes/Donkey Kong.nes":  {
+                                "title":  "Donkey Kong",
+                                "year":  1983,
+                                "developer":  "Nintendo",
+                                "publisher":  "Nintendo",
+                                "genre":  "Platformer",
+                                "desc":  "The NES conversion of the arcade original, retaining the first three screens."
+                            },
+    "nes/Donkey_kong_jr.nes":  {
+                                   "title":  "Donkey Kong Jr.",
+                                   "year":  1983,
+                                   "developer":  "Nintendo",
+                                   "publisher":  "Nintendo",
+                                   "genre":  "Platformer",
+                                   "desc":  "The NES port of Donkey Kong Jr., in which the young ape climbs vines to free his father."
+                               },
+    "nes/Donkey_kong3.nes":  {
+                                 "title":  "Donkey Kong 3",
+                                 "year":  1984,
+                                 "developer":  "Nintendo",
+                                 "publisher":  "Nintendo",
+                                 "genre":  "Shooter",
+                                 "desc":  "The NES port of the greenhouse shooter starring Stanley the exterminator."
+                             },
+    "nes/Donkey Kong Classics.nes":  {
+                                         "title":  "Donkey Kong Classics",
+                                         "year":  1988,
+                                         "developer":  "Nintendo",
+                                         "publisher":  "Nintendo",
+                                         "genre":  "Platformer",
+                                         "desc":  "A cartridge compiling Donkey Kong and Donkey Kong Jr. on a single NES game pack."
+                                     },
+    "nes/Mario_brothers.nes":  {
+                                   "title":  "Mario Bros.",
+                                   "year":  1983,
+                                   "developer":  "Nintendo",
+                                   "publisher":  "Nintendo",
+                                   "genre":  "Platformer",
+                                   "desc":  "The NES port of the arcade game in which Mario and Luigi bump enemies from below and kick them away."
+                               },
+    "nes/Galaga.nes":  {
+                           "title":  "Galaga",
+                           "year":  1988,
+                           "developer":  "Namco",
+                           "publisher":  "Bandai",
+                           "genre":  "Shooter",
+                           "desc":  "The NES conversion of Namco\u0027s formation shooter, with the capture-and-rescue mechanic intact."
+                       },
+    "nes/Pacman.nes":  {
+                           "title":  "Pac-Man",
+                           "group":  "pac-man-nes",
+                           "year":  1984,
+                           "developer":  "Namco",
+                           "publisher":  "Namco",
+                           "genre":  "Maze",
+                           "desc":  "The NES conversion of Pac-Man, released on the Famicom in 1984 and later in North America."
+                       },
+    "nes/Ms_pacman.nes":  {
+                              "title":  "Ms. Pac-Man",
+                              "group":  "ms-pac-man-nes",
+                              "year":  1993,
+                              "developer":  "Namco",
+                              "publisher":  "Namco",
+                              "genre":  "Maze",
+                              "desc":  "The NES version of Ms. Pac-Man, released late in the console\u0027s life as a Tengen/Namco title."
+                          },
+    "nes/Ms. Pacman.nes":  {
+                               "title":  "Ms. Pac-Man",
+                               "group":  "ms-pac-man-nes",
+                               "year":  1993,
+                               "developer":  "Namco",
+                               "publisher":  "Namco",
+                               "genre":  "Maze",
+                               "desc":  "An alternate filename of the NES Ms. Pac-Man present in the collection."
+                           },
+    "nes/Q Bert.nes":  {
+                           "title":  "Q*bert",
+                           "year":  1989,
+                           "developer":  "Gottlieb",
+                           "publisher":  "Ultra Games",
+                           "genre":  "Puzzle",
+                           "desc":  "The NES conversion of the isometric pyramid puzzler."
+                       },
+    "nes/Digdug.nes":  {
+                           "title":  "Dig Dug II",
+                           "year":  1989,
+                           "developer":  "Namco",
+                           "publisher":  "Bandai",
+                           "genre":  "Maze",
+                           "desc":  "The NES release of Dig Dug II, in which fault lines are drilled to sink island sections."
+                       },
+    "nes/Joust.nes":  {
+                          "title":  "Joust",
+                          "year":  1988,
+                          "developer":  "Williams",
+                          "publisher":  "Atari",
+                          "genre":  "Arcade",
+                          "desc":  "The NES conversion of Williams\u0027 ostrich-knight arcade game."
+                      },
+    "nes/Millipede.nes":  {
+                              "title":  "Millipede",
+                              "year":  1988,
+                              "developer":  "Atari",
+                              "publisher":  "Atari",
+                              "genre":  "Shooter",
+                              "desc":  "The NES conversion of Atari\u0027s bug shooter, with the original\u0027s mushroom field and new enemies."
+                          },
+    "nes/Arkanoid.nes":  {
+                             "title":  "Arkanoid",
+                             "year":  1987,
+                             "developer":  "Taito",
+                             "publisher":  "Taito",
+                             "genre":  "Puzzle",
+                             "desc":  "The NES conversion of the brick-breaking arcade game, with power-up capsules and boss stages."
+                         },
+    "nes/Spy_hunter.nes":  {
+                               "title":  "Spy Hunter",
+                               "year":  1987,
+                               "developer":  "Bally Midway",
+                               "publisher":  "Sunsoft",
+                               "genre":  "Racing",
+                               "desc":  "The NES conversion of the spy-car arcade game, with weapons van upgrades."
+                           },
+    "nes/Toobin.nes":  {
+                           "title":  "Toobin\u0027",
+                           "year":  1989,
+                           "developer":  "Atari Games",
+                           "publisher":  "Domark",
+                           "genre":  "Arcade",
+                           "desc":  "The NES conversion of the river-rafting arcade game."
+                       },
+    "nes/Klax.nes":  {
+                         "title":  "Klax",
+                         "year":  1990,
+                         "developer":  "Atari Games",
+                         "publisher":  "Tengen",
+                         "genre":  "Puzzle",
+                         "desc":  "The NES conversion of Atari\u0027s tile-matching puzzler."
+                     },
+    "nes/Tecmo Bowl.nes":  {
+                               "title":  "Tecmo Bowl",
+                               "year":  1989,
+                               "developer":  "Tecmo",
+                               "publisher":  "Tecmo",
+                               "genre":  "Sports",
+                               "desc":  "A fast American football game with a simplified playbook and a much-loved two-player mode."
+                           },
+    "nes/Tspr Bowl.nes":  {
+                              "title":  "Tecmo Super Bowl",
+                              "year":  1991,
+                              "developer":  "Tecmo",
+                              "publisher":  "Tecmo",
+                              "genre":  "Sports",
+                              "desc":  "An expanded Tecmo Bowl with full NFL teams, a season mode and stat tracking."
+                          },
+    "nes/Rbi Baseball.nes":  {
+                                 "title":  "R.B.I. Baseball",
+                                 "year":  1988,
+                                 "developer":  "Namco",
+                                 "publisher":  "Tengen",
+                                 "genre":  "Sports",
+                                 "desc":  "A fast, arcade-style baseball game with real MLB players and a simple one-button swing."
+                             },
+    "nes/Ghost_\u0026_goblins.nes":  {
+                                         "title":  "Ghosts\u0027n Goblins",
+                                         "year":  1986,
+                                         "developer":  "Capcom",
+                                         "publisher":  "Capcom",
+                                         "genre":  "Platformer",
+                                         "desc":  "The NES conversion of Arthur\u0027s graveyard quest, retaining the arcade\u0027s unforgiving difficulty."
+                                     },
+    "nes/Gargoyle\u0027s_quest2.nes":  {
+                                           "title":  "Gargoyle\u0027s Quest II",
+                                           "year":  1992,
+                                           "developer":  "Capcom",
+                                           "publisher":  "Capcom",
+                                           "genre":  "RPG",
+                                           "desc":  "A Firebrand adventure mixing overworld exploration, action stages and RPG-style progression."
+                                       },
+    "nes/Startropics.nes":  {
+                                "title":  "StarTropics",
+                                "year":  1990,
+                                "developer":  "Nintendo R\u0026D3",
+                                "publisher":  "Nintendo",
+                                "genre":  "Adventure",
+                                "desc":  "A top-down adventure in which Mike Jones searches tropical islands for his uncle, using a yo-yo and a submarine."
+                            },
+    "nes/Maniac_mansion.nes":  {
+                                   "title":  "Maniac Mansion",
+                                   "year":  1990,
+                                   "developer":  "Lucasfilm Games",
+                                   "publisher":  "Jaleco",
+                                   "genre":  "Adventure",
+                                   "desc":  "A point-and-click adventure with multiple characters and several possible endings, ported to the NES with changes."
+                               },
+    "nes/Shadowgate.nes":  {
+                               "title":  "Shadowgate",
+                               "year":  1989,
+                               "developer":  "Icom Simulations",
+                               "publisher":  "Kemco",
+                               "genre":  "Adventure",
+                               "desc":  "A first-person point-and-click adventure in which the player explores a castle and must avoid fatal mistakes."
+                           },
+    "nes/Deja_vu.nes":  {
+                            "title": "D\u00e9j\u00e0 Vu",
+                            "year":  1990,
+                            "developer":  "Icom Simulations",
+                            "publisher":  "Kemco",
+                            "genre":  "Adventure",
+                            "desc":  "A noir point-and-click mystery in which the player wakes with amnesia and must clear their name."
+                        },
+    "nes/Uninvited.nes":  {
+                              "title":  "Uninvited",
+                              "year":  1991,
+                              "developer":  "Icom Simulations",
+                              "publisher":  "Kemco",
+                              "genre":  "Adventure",
+                              "desc":  "A horror point-and-click adventure set in a haunted mansion, with a driving sequence and multiple endings."
+                          },
+    "nes/Wizards_n_warriors.nes":  {
+                                       "title":  "Wizards \u0026 Warriors",
+                                       "year":  1987,
+                                       "developer":  "Rare",
+                                       "publisher":  "Acclaim",
+                                       "genre":  "Platformer",
+                                       "desc":  "Kuros the knight searches castles for gems and rescues princesses, with vertical exploration and hidden items."
+                                   },
+    "nes/Little_nemo.nes":  {
+                                "title":  "Little Nemo: The Dream Master",
+                                "year":  1990,
+                                "developer":  "Capcom",
+                                "publisher":  "Capcom",
+                                "genre":  "Platformer",
+                                "desc":  "Nemo explores dream worlds, feeding candy to animals and wearing them to gain their abilities."
+                            },
+    "nes/Yoshi.nes":  {
+                          "title":  "Yoshi",
+                          "year":  1991,
+                          "developer":  "Game Freak",
+                          "publisher":  "Nintendo",
+                          "genre":  "Puzzle",
+                          "desc":  "A falling-block puzzle game in which Mario stacks egg halves to hatch Yoshi."
+                      },
+    "nes/Wario\u0027s_world.nes":  {
+                                       "title":  "Wario\u0027s Woods",
+                                       "year":  1994,
+                                       "developer":  "Nintendo R\u0026D1",
+                                       "publisher":  "Nintendo",
+                                       "genre":  "Puzzle",
+                                       "desc":  "Toad clears monsters by matching colours in a puzzle game with a story mode and a two-player battle."
+                                   },
+    "nes/Adventure Island 2.nes":  {
+                                       "title":  "Adventure Island II",
+                                       "year":  1991,
+                                       "developer":  "Hudson Soft",
+                                       "publisher":  "Hudson Soft",
+                                       "genre":  "Platformer",
+                                       "desc":  "Master Higgins explores eight islands with dinosaur companions, skateboards and hidden eggs."
+                                   },
+    "nes/Adventure Island 3.nes":  {
+                                       "title":  "Adventure Island 3",
+                                       "year":  1992,
+                                       "developer":  "Hudson Soft",
+                                       "publisher":  "Hudson Soft",
+                                       "genre":  "Platformer",
+                                       "desc":  "A further Adventure Island sequel with new dinosaur helpers and a world map."
+                                   },
+    "nes/Adventures of Lolo.nes":  {
+                                       "title":  "Adventures of Lolo",
+                                       "year":  1989,
+                                       "developer":  "HAL Laboratory",
+                                       "publisher":  "HAL America",
+                                       "genre":  "Puzzle",
+                                       "desc":  "A block-pushing puzzle game in which Lolo rescues Lala across single-screen chambers."
+                                   },
+    "nes/Bomber_man.nes":  {
+                               "title":  "Bomberman",
+                               "year":  1985,
+                               "developer":  "Hudson Soft",
+                               "publisher":  "Hudson Soft",
+                               "genre":  "Action",
+                               "desc":  "The NES Bomberman, with maze stages, bomb upgrades and a battle mode."
+                           },
+    "nes/Bomber_man2.nes":  {
+                                "title":  "Bomberman II",
+                                "year":  1991,
+                                "developer":  "Hudson Soft",
+                                "publisher":  "Hudson Soft",
+                                "genre":  "Action",
+                                "desc":  "A sequel with a story mode, new items and three-player battle support."
+                            },
+    "nes/Snow_brothers.nes":  {
+                                  "title":  "Snow Bros.",
+                                  "year":  1991,
+                                  "developer":  "Toaplan",
+                                  "publisher":  "Capcom",
+                                  "genre":  "Platformer",
+                                  "desc":  "Two snowmen trap enemies in snowballs and roll them into each other across single-screen stages."
+                              },
+    "nes/Paperboy.nes":  {
+                             "title":  "Paperboy",
+                             "year":  1988,
+                             "developer":  "Atari Games",
+                             "publisher":  "Mindscape",
+                             "genre":  "Arcade",
+                             "desc":  "The NES conversion of Atari\u0027s paper round, with a scrolling street and subscriber list."
+                         },
+    "nes/Alien_syndrome.nes":  {
+                                   "title":  "Alien Syndrome",
+                                   "year":  1988,
+                                   "developer":  "Sega",
+                                   "publisher":  "Tengen",
+                                   "genre":  "Shooter",
+                                   "desc":  "The NES conversion of Sega\u0027s top-down alien shooter, with hostage rescue and a timer."
+                               },
+    "nes/1942.nes":  {
+                         "title":  "1942",
+                         "year":  1986,
+                         "developer":  "Capcom",
+                         "publisher":  "Capcom",
+                         "genre":  "Shooter",
+                         "desc":  "The NES conversion of Capcom\u0027s vertical WWII shooter."
+                     },
+    "nes/1943.nes":  {
+                         "title":  "1943: The Battle of Midway",
+                         "year":  1988,
+                         "developer":  "Capcom",
+                         "publisher":  "Capcom",
+                         "genre":  "Shooter",
+                         "desc":  "The NES conversion of 1943, with an energy bar and a shop-style upgrade system."
+                     },
+    "nes/Commando.nes":  {
+                             "title":  "Commando",
+                             "year":  1986,
+                             "developer":  "Capcom",
+                             "publisher":  "Capcom",
+                             "genre":  "Shooter",
+                             "desc":  "A vertical run-and-gun in which a soldier advances through enemy lines with grenades and a machine gun."
+                         },
+    "nes/Jackal.nes":  {
+                           "title":  "Jackal",
+                           "year":  1988,
+                           "developer":  "Konami",
+                           "publisher":  "Konami",
+                           "genre":  "Shooter",
+                           "desc":  "A top-down jeep shooter with hostage rescue and grenade upgrades."
+                       },
+    "nes/Section_z.nes":  {
+                              "title":  "Section Z",
+                              "year":  1987,
+                              "developer":  "Capcom",
+                              "publisher":  "Capcom",
+                              "genre":  "Shooter",
+                              "desc":  "A side-scrolling shooter with a non-linear station map and two-directional fire."
+                          },
+    "nes/Rush_n_attack.nes":  {
+                                  "title":  "Rush\u0027n Attack",
+                                  "year":  1987,
+                                  "developer":  "Konami",
+                                  "publisher":  "Konami",
+                                  "genre":  "Action",
+                                  "desc":  "A side-scrolling combat game in which a soldier fights through enemy bases with a knife and collected weapons."
+                              },
+    "nes/Ikari_warriors.nes":  {
+                                   "title":  "Ikari Warriors",
+                                   "year":  1987,
+                                   "developer":  "SNK",
+                                   "publisher":  "SNK",
+                                   "genre":  "Shooter",
+                                   "desc":  "A vertical run-and-gun with rotating movement and a two-player co-op mode."
+                               },
+    "nes/Cobra_command.nes":  {
+                                  "title":  "Cobra Command",
+                                  "year":  1988,
+                                  "developer":  "Data East",
+                                  "publisher":  "Data East",
+                                  "genre":  "Shooter",
+                                  "desc":  "A helicopter shooter with side-scrolling and top-down stages, ported from the arcade laserdisc game."
+                              },
+    "nes/Top_gun.nes":  {
+                            "title":  "Top Gun",
+                            "year":  1987,
+                            "developer":  "Konami",
+                            "publisher":  "Konami",
+                            "genre":  "Simulation",
+                            "desc":  "A flight combat game based on the film, with carrier landings and missile combat."
+                        },
+    "nes/Operation_wolf.nes":  {
+                                   "title":  "Operation Wolf",
+                                   "year":  1989,
+                                   "developer":  "Taito",
+                                   "publisher":  "Taito",
+                                   "genre":  "Shooter",
+                                   "desc":  "The NES conversion of Taito\u0027s light-gun hostage-rescue shooter, played with the controller or Zapper."
+                               },
+    "nes/Batman_returns.nes":  {
+                                   "title":  "Batman Returns",
+                                   "year":  1993,
+                                   "developer":  "Konami",
+                                   "publisher":  "Konami",
+                                   "genre":  "Action",
+                                   "desc":  "A side-scrolling brawler based on the film, with Batman fighting through Gotham."
+                               }
+}

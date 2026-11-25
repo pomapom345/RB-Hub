@@ -1,0 +1,1922 @@
+{
+    "_comment":  "Curated metadata for MAME / Arcade entries. Keys are the exact inventory paths from data/inventory.raw.txt. Only verified facts are included; \u0027verified\u0027: false marks an entry whose identity could not be confirmed, in which case year/developer are left out.",
+    "arcade/1942":  {
+                        "title":  "1942",
+                        "slug":  "1942",
+                        "year":  1984,
+                        "developer":  "Capcom",
+                        "publisher":  "Capcom",
+                        "genre":  "Shooter",
+                        "desc":  "A vertical-scrolling World War II shooter in which a lone P-38 Lightning fights through sixteen stages of Japanese air and naval forces.",
+                        "gameplay":  "Players dodge dense bullet and aircraft patterns while collecting power-ups that widen the fighter\u0027s fire. A famous loop-the-loop manoeuvre grants brief invulnerability.",
+                        "history":  "Capcom\u0027s first major arcade hit and the start of a long-running series. It was designed by Yoshiki Okamoto, who also created Time Pilot and Gyruss for Konami."
+                    },
+    "arcade/1942B":  {
+                         "title":  "1942",
+                         "group":  "1942",
+                         "year":  1984,
+                         "developer":  "Capcom",
+                         "publisher":  "Capcom",
+                         "genre":  "Shooter",
+                         "region":  "Alternate ROM set (suffix B)",
+                         "desc":  "An alternate board revision of Capcom\u0027s 1942 held in the collection as its own ROM set.",
+                         "verified":  true
+                     },
+    "arcade/1943":  {
+                        "title":  "1943: The Battle of Midway",
+                        "slug":  "1943-the-battle-of-midway",
+                        "year":  1987,
+                        "developer":  "Capcom",
+                        "publisher":  "Capcom",
+                        "genre":  "Shooter",
+                        "desc":  "A sequel to 1942 that adds an energy meter, a limited special weapon and a boss encounter against the battleship Yamato."
+                    },
+    "arcade/3STOOGES":  {
+                            "title":  "The Three Stooges",
+                            "year":  null,
+                            "developer":  "",
+                            "publisher":  "",
+                            "genre":  "Action",
+                            "desc":  "An arcade adaptation of the classic comedy trio. The ROM set is present in the collection; release details are not verified.",
+                            "verified":  false
+                        },
+    "arcade/ASTDELUX":  {
+                            "title":  "Asteroids Deluxe",
+                            "slug":  "asteroids-deluxe",
+                            "year":  1980,
+                            "developer":  "Atari",
+                            "publisher":  "Atari",
+                            "genre":  "Shooter",
+                            "desc":  "Atari\u0027s follow-up to Asteroids, adding a shield, smarter saucers and a rotating background that changes the feel of every wave."
+                        },
+    "arcade/ASTEROID":  {
+                            "title":  "Asteroids",
+                            "slug":  "asteroids",
+                            "year":  1979,
+                            "developer":  "Atari",
+                            "publisher":  "Atari",
+                            "genre":  "Shooter",
+                            "desc":  "A vector-graphics classic in which a tiny ship clears an endless field of drifting rocks that split into smaller, faster fragments.",
+                            "gameplay":  "The ship drifts with inertia, can hyperspace to escape danger, and must survive escalating waves of asteroids and flying saucers.",
+                            "history":  "One of the best-selling arcade games of the golden age and a landmark of vector display technology, designed by Lyle Rains and Ed Logg."
+                        },
+    "arcade/BAGMAN":  {
+                          "title":  "Bagman",
+                          "year":  1982,
+                          "developer":  "Valadon Automation",
+                          "publisher":  "Stern",
+                          "genre":  "Platformer",
+                          "desc":  "A thief must haul sacks of loot to the surface while dodging guards and a pursuing policeman in a single-screen mine."
+                      },
+    "arcade/BAGMANS":  {
+                           "title":  "Super Bagman",
+                           "slug":  "super-bagman",
+                           "year":  1984,
+                           "developer":  "Valadon Automation",
+                           "publisher":  "Stern",
+                           "genre":  "Platformer",
+                           "desc":  "The sequel to Bagman, expanding the mine with new layouts, faster guards and additional hazards."
+                       },
+    "arcade/BERZERK":  {
+                           "title":  "Berzerk",
+                           "slug":  "berzerk",
+                           "year":  1980,
+                           "developer":  "Stern",
+                           "publisher":  "Stern",
+                           "genre":  "Shooter",
+                           "desc":  "A top-down shooter set in a maze of electrified rooms, where robots hunt the player and the walls themselves can kill.",
+                           "history":  "Berzerk is remembered for its synthesised speech and for being one of the first arcade games with a persistent stalker enemy, Evil Otto."
+                       },
+    "arcade/BERZERK1":  {
+                            "title":  "Berzerk",
+                            "group":  "berzerk",
+                            "year":  1980,
+                            "developer":  "Stern",
+                            "publisher":  "Stern",
+                            "genre":  "Shooter",
+                            "region":  "Alternate ROM set",
+                            "desc":  "An alternate board revision of Berzerk preserved as its own ROM set."
+                        },
+    "arcade/BTIME":  {
+                         "title":  "BurgerTime",
+                         "slug":  "burgertime",
+                         "year":  1982,
+                         "developer":  "Data East",
+                         "publisher":  "Data East",
+                         "genre":  "Platformer",
+                         "desc":  "Chef Peter Pepper walks across giant burger ingredients, dropping them into place while avoiding anthropomorphic food.",
+                         "gameplay":  "Walking the full length of a bun, patty, lettuce or tomato makes it fall one level; crushing enemies scores bonus points but ends their chase only briefly.",
+                         "history":  "Designed by Norihiro Kamide for Data East and ported to almost every home system of the early 1980s."
+                     },
+    "arcade/BTIME2":  {
+                          "title":  "BurgerTime",
+                          "group":  "burgertime",
+                          "year":  1982,
+                          "developer":  "Data East",
+                          "publisher":  "Data East",
+                          "genre":  "Platformer",
+                          "region":  "Alternate ROM set",
+                          "desc":  "A later board revision of BurgerTime kept in the collection as a separate ROM set."
+                      },
+    "arcade/BTIMEM":  {
+                          "title":  "BurgerTime",
+                          "group":  "burgertime",
+                          "year":  1982,
+                          "developer":  "Data East",
+                          "publisher":  "Data East",
+                          "genre":  "Platformer",
+                          "region":  "Alternate ROM set",
+                          "desc":  "A further BurgerTime ROM revision present in the collection."
+                      },
+    "arcade/BWIDOW":  {
+                          "title":  "Black Widow",
+                          "year":  1982,
+                          "developer":  "Atari",
+                          "publisher":  "Atari",
+                          "genre":  "Shooter",
+                          "desc":  "A twin-stick vector shooter in which a spider defends its web from swarms of insects drawn to the centre."
+                      },
+    "arcade/BZONE":  {
+                         "title":  "Battlezone",
+                         "year":  1980,
+                         "developer":  "Atari",
+                         "publisher":  "Atari",
+                         "genre":  "Shooter",
+                         "desc":  "A first-person vector tank battle viewed through a periscope, with wireframe terrain, radar and enemy tanks.",
+                         "history":  "Originally planned as a military training tool, Battlezone became a landmark of 3D arcade graphics. Atari later produced a Bradley Trainer variant for the US Army."
+                     },
+    "arcade/CARNIVAL":  {
+                            "title":  "Carnival",
+                            "year":  1980,
+                            "developer":  "Sega",
+                            "publisher":  "Sega / Gremlin",
+                            "genre":  "Shooter",
+                            "desc":  "Players shoot rows of targets at a fairground shooting gallery, protecting a limited supply of bullets from mischievous ducks."
+                        },
+    "arcade/CCASTLES":  {
+                            "title":  "Crystal Castles",
+                            "slug":  "crystal-castles",
+                            "year":  1983,
+                            "developer":  "Atari",
+                            "publisher":  "Atari",
+                            "genre":  "Maze",
+                            "desc":  "Bentley Bear collects gems through isometric castles while dodging bees, skeletons and a bouncing hat."
+                        },
+    "arcade/CCASTLE2":  {
+                            "title":  "Crystal Castles",
+                            "group":  "crystal-castles",
+                            "year":  1983,
+                            "developer":  "Atari",
+                            "publisher":  "Atari",
+                            "genre":  "Maze",
+                            "region":  "Alternate ROM set",
+                            "desc":  "An alternate Crystal Castles board revision preserved in the collection."
+                        },
+    "arcade/CCLIMBER":  {
+                            "title":  "Crazy Climber",
+                            "year":  1980,
+                            "developer":  "Nichibutsu",
+                            "publisher":  "Nichibutsu / Taito",
+                            "genre":  "Action",
+                            "desc":  "A climber scales the face of a skyscraper using a pair of joysticks, dodging falling flowerpots and closing windows.",
+                            "history":  "Notable for its dual-joystick control scheme, which let each hand move independently and gave the game an unusually physical feel."
+                        },
+    "arcade/CENTIPED":  {
+                            "title":  "Centipede",
+                            "slug":  "centipede",
+                            "year":  1981,
+                            "developer":  "Atari",
+                            "publisher":  "Atari",
+                            "genre":  "Shooter",
+                            "desc":  "A bug shooter set in a field of mushrooms, where a centipede splits into faster segments as it is hit.",
+                            "gameplay":  "The player\u0027s ship is confined to the lower fifth of the screen; poisoning mushrooms sends the centipede into a wild dive toward the player.",
+                            "history":  "Designed by Ed Logg and Dona Bailey, one of the first arcade games designed by a woman and a huge early-1980s success."
+                        },
+    "arcade/CENTIPD2":  {
+                            "title":  "Centipede",
+                            "group":  "centipede",
+                            "year":  1981,
+                            "developer":  "Atari",
+                            "publisher":  "Atari",
+                            "genre":  "Shooter",
+                            "region":  "Alternate ROM set",
+                            "desc":  "An alternate Centipede ROM revision held in the collection."
+                        },
+    "arcade/CIRCUSC":  {
+                           "title":  "Circus Charlie",
+                           "year":  1984,
+                           "developer":  "Konami",
+                           "publisher":  "Konami",
+                           "genre":  "Action",
+                           "desc":  "A circus performer rides a lion through flaming hoops, walks a tightrope and bounces on a trampoline across six mini-games."
+                       },
+    "arcade/CONGO":  {
+                         "title":  "Congo Bongo",
+                         "year":  1983,
+                         "developer":  "Sega",
+                         "publisher":  "Sega",
+                         "genre":  "Platformer",
+                         "desc":  "An isometric jungle climb in which an explorer chases a gorilla up a mountain, avoiding monkeys, coconuts and gaps."
+                     },
+    "arcade/CRUSH":  {
+                         "title":  "Crush Roller",
+                         "year":  1981,
+                         "developer":  "Kural Samno",
+                         "publisher":  "Williams",
+                         "genre":  "Maze",
+                         "desc":  "A paint-roller maze game in which a roller covers every path while fish-like enemies give chase."
+                     },
+    "arcade/DEFENDER":  {
+                            "title":  "Defender",
+                            "slug":  "defender",
+                            "year":  1980,
+                            "developer":  "Williams",
+                            "publisher":  "Williams",
+                            "genre":  "Shooter",
+                            "desc":  "A horizontal shooter across a scrolling alien landscape, protecting humanoids from abduction while managing a dangerous radar map.",
+                            "gameplay":  "The ship can reverse direction and warp across the world; losing all humanoids turns the planet into a minefield and eventually ends the game.",
+                            "history":  "Designed by Eugene Jarvis and Larry DeMar, Defender set the template for the modern action arcade game and was notoriously difficult."
+                        },
+    "arcade/DEFENDG":  {
+                           "title":  "Defender",
+                           "group":  "defender",
+                           "year":  1980,
+                           "developer":  "Williams",
+                           "publisher":  "Williams",
+                           "genre":  "Shooter",
+                           "region":  "Green label revision",
+                           "desc":  "The \u0027green label\u0027 board revision of Defender, preserved as its own ROM set."
+                       },
+    "arcade/DIAMOND":  {
+                           "title":  "Diamond Run",
+                           "year":  null,
+                           "developer":  "",
+                           "publisher":  "",
+                           "genre":  "Action",
+                           "desc":  "An isometric arcade action game held in the collection under the ROM identifier DIAMOND. Release details are not verified.",
+                           "verified":  false
+                       },
+    "arcade/DIGDUG":  {
+                          "title":  "Dig Dug",
+                          "slug":  "dig-dug",
+                          "year":  1982,
+                          "developer":  "Namco",
+                          "publisher":  "Namco / Atari",
+                          "genre":  "Maze",
+                          "desc":  "A underground gardener tunnels through soil, inflating and popping enemies with a pump or crushing them with falling rocks.",
+                          "history":  "One of Namco\u0027s defining early titles, designed by Masahisa Ikegami with character art by Hiroshi Ono."
+                      },
+    "arcade/DKONG":  {
+                         "title":  "Donkey Kong",
+                         "slug":  "donkey-kong",
+                         "year":  1981,
+                         "developer":  "Nintendo",
+                         "publisher":  "Nintendo",
+                         "genre":  "Platformer",
+                         "desc":  "Mario climbs girders to rescue Pauline from a barrel-throwing gorilla in the game that established the platform genre.",
+                         "gameplay":  "Four single-screen stages — barrels, rivets, springs and conveyors — must be cleared in sequence, each faster than the last.",
+                         "history":  "Designed by Shigeru Miyamoto with programming by Ikegami Tsushinki, Donkey Kong introduced Mario (then Jumpman) and became Nintendo\u0027s first big arcade success.",
+                         "official":  "https://www.nintendo.com/"
+                     },
+    "arcade/DKONG31":  {
+                           "title":  "Donkey Kong 3",
+                           "group":  "donkey-kong-3",
+                           "year":  1983,
+                           "developer":  "Nintendo",
+                           "publisher":  "Nintendo",
+                           "genre":  "Shooter",
+                           "region":  "Alternate ROM set",
+                           "desc":  "A variant ROM set of Donkey Kong 3, the greenhouse shooter starring Stanley the exterminator."
+                       },
+    "arcade/ELEVATOR":  {
+                            "title":  "Elevator Action",
+                            "year":  1983,
+                            "developer":  "Taito",
+                            "publisher":  "Taito",
+                            "genre":  "Action",
+                            "desc":  "A spy descends a skyscraper by elevator and escalator, collecting secret documents while enemy agents open fire."
+                        },
+    "arcade/FROGGER":  {
+                           "title":  "Frogger",
+                           "slug":  "frogger",
+                           "year":  1981,
+                           "developer":  "Konami",
+                           "publisher":  "Sega / Konami",
+                           "genre":  "Arcade",
+                           "desc":  "A frog crosses a busy highway and a log-filled river to reach its home lily pads, one hop at a time.",
+                           "gameplay":  "Timing and lane reading define the challenge; each of five homes must be filled, and a timer adds pressure to every crossing.",
+                           "history":  "Created by Akira Hashimoto at Konami and licensed to Sega for arcade distribution, Frogger became a pop-culture staple of the 1980s."
+                       },
+    "arcade/GALAGA":  {
+                          "title":  "Galaga",
+                          "slug":  "galaga",
+                          "year":  1981,
+                          "developer":  "Namco",
+                          "publisher":  "Namco / Midway",
+                          "genre":  "Shooter",
+                          "desc":  "A fixed shooter in which insectoid aliens swoop in formation; a captured fighter can be rescued to double your firepower.",
+                          "gameplay":  "Enemies dive in curved attack runs. Letting a boss Galaga tractor-beam your ship and then shooting the captor reunites the two fighters for double shots.",
+                          "history":  "The sequel to Galaxian and one of the most successful arcade games ever made, celebrated for its choreographed enemy patterns and challenging stages.",
+                          "official":  "https://www.bandainamcoent.com/"
+                      },
+    "arcade/GALAGA88":  {
+                            "title":  "Galaga \u002788",
+                            "year":  1987,
+                            "developer":  "Namco",
+                            "publisher":  "Namco",
+                            "genre":  "Shooter",
+                            "desc":  "A late-1980s Galaga sequel with scrolling stages, warp gates and a branching path through the game."
+                        },
+    "arcade/GALAXIAN":  {
+                            "title":  "Galaxian",
+                            "year":  1979,
+                            "developer":  "Namco",
+                            "publisher":  "Namco / Midway",
+                            "genre":  "Shooter",
+                            "desc":  "The direct predecessor of Galaga, introducing full-colour sprites and enemies that peel out of formation to dive at the player.",
+                            "history":  "Galaxian was one of the first colour arcade games and a deliberate response to Space Invaders\u0027 monochrome look."
+                        },
+    "arcade/GAUNTLET":  {
+                            "title":  "Gauntlet",
+                            "slug":  "gauntlet",
+                            "year":  1985,
+                            "developer":  "Atari Games",
+                            "publisher":  "Atari Games",
+                            "genre":  "Action",
+                            "desc":  "Four-player dungeon crawling with health that constantly drains, monsters that spawn endlessly and walls that must be shot open.",
+                            "gameplay":  "Warrior, Valkyrie, Wizard and Elf each have distinct strengths; food restores health and the famous narrator comments on every event.",
+                            "history":  "A coin-op landmark for four-player co-operative play, designed by Ed Logg and later ported widely."
+                        },
+    "arcade/GAUNT2":  {
+                          "title":  "Gauntlet II",
+                          "group":  "gauntlet-ii",
+                          "year":  1986,
+                          "developer":  "Atari Games",
+                          "publisher":  "Atari Games",
+                          "genre":  "Action",
+                          "desc":  "A Gauntlet II ROM set preserved in the collection."
+                      },
+    "arcade/gaunt2.zip":  {
+                              "title":  "Gauntlet II",
+                              "group":  "gauntlet-ii",
+                              "year":  1986,
+                              "developer":  "Atari Games",
+                              "publisher":  "Atari Games",
+                              "genre":  "Action",
+                              "desc":  "The zipped Gauntlet II ROM set held alongside the unpacked folder."
+                          },
+    "arcade/gauntlet.zip":  {
+                                "title":  "Gauntlet",
+                                "group":  "gauntlet",
+                                "year":  1985,
+                                "developer":  "Atari Games",
+                                "publisher":  "Atari Games",
+                                "genre":  "Action",
+                                "desc":  "The zipped Gauntlet ROM set held alongside the unpacked folder."
+                            },
+    "arcade/GOLDNAXE":  {
+                            "title":  "Golden Axe",
+                            "year":  1989,
+                            "developer":  "Sega",
+                            "publisher":  "Sega",
+                            "genre":  "Action",
+                            "desc":  "A side-scrolling fantasy beat-\u0027em-up in which three heroes fight Death Adder\u0027s soldiers, riding beasts and casting magic.",
+                            "history":  "A major Sega System 16 title that became one of the Mega Drive\u0027s signature games."
+                        },
+    "arcade/GORF":  {
+                        "title":  "Gorf",
+                        "year":  1981,
+                        "developer":  "Midway",
+                        "publisher":  "Midway",
+                        "genre":  "Shooter",
+                        "desc":  "A five-stage space shooter that borrows mechanics from Astro Blaster, Space Invaders, Galaxian and Wizard of Wor in sequence.",
+                        "history":  "Gorf was an early arcade game to use synthesised speech, taunting the player with lines like \u0027Prepare yourself for a galactic war\u0027.\u0027 "
+                    },
+    "arcade/gorf.zip":  {
+                            "title":  "Gorf",
+                            "group":  "gorf",
+                            "year":  1981,
+                            "developer":  "Midway",
+                            "publisher":  "Midway",
+                            "genre":  "Shooter",
+                            "desc":  "The zipped Gorf ROM set held alongside the unpacked folder."
+                        },
+    "arcade/GYRUSS":  {
+                          "title":  "Gyruss",
+                          "slug":  "gyruss",
+                          "year":  1983,
+                          "developer":  "Konami",
+                          "publisher":  "Konami / Centuri",
+                          "genre":  "Shooter",
+                          "desc":  "A tube shooter in which the player orbits Earth, moving in a circle while waves of enemies stream inward from deep space.",
+                          "history":  "Designed by Yoshiki Okamoto and notable for its Bach-inspired soundtrack and pseudo-3D starfield."
+                      },
+    "arcade/GYRUSSCE":  {
+                            "title":  "Gyruss",
+                            "group":  "gyruss",
+                            "year":  1983,
+                            "developer":  "Konami",
+                            "publisher":  "Centuri",
+                            "genre":  "Shooter",
+                            "region":  "Centuri release",
+                            "desc":  "The Centuri-licensed release of Gyruss, held as a separate ROM set."
+                        },
+    "arcade/INVADERS":  {
+                            "title":  "Space Invaders",
+                            "slug":  "space-invaders-arcade",
+                            "year":  1978,
+                            "developer":  "Taito",
+                            "publisher":  "Taito / Midway",
+                            "genre":  "Shooter",
+                            "desc":  "The game that launched the arcade boom: rows of aliens descend while the player\u0027s laser cannon picks them off from behind four shields.",
+                            "gameplay":  "The aliens speed up as their numbers thin, and the player must manage a single cannon against an ever-descending formation.",
+                            "history":  "Designed by Tomohiro Nishikado, Space Invaders triggered the golden age of arcade video games and made Taito a household name."
+                        },
+    "arcade/IROBOT":  {
+                          "title":  "I, Robot",
+                          "year":  1984,
+                          "developer":  "Atari",
+                          "publisher":  "Atari",
+                          "genre":  "Shooter",
+                          "desc":  "A polygonal 3D shooter in which a player guides a robot through geometric worlds while being watched by the evil eye.",
+                          "history":  "One of the first arcade games with fully filled 3D polygons and an early example of a game designed around a \u0027not for kids\u0027 theme."
+                      },
+    "arcade/JOURNEY":  {
+                           "title":  "Journey",
+                           "year":  1983,
+                           "developer":  "Bally Midway",
+                           "publisher":  "Bally Midway",
+                           "genre":  "Action",
+                           "desc":  "A music-themed arcade game featuring the band Journey, mixing mini-games with digitised concert footage and their music."
+                       },
+    "arcade/JOUST":  {
+                         "title":  "Joust",
+                         "slug":  "joust",
+                         "year":  1982,
+                         "developer":  "Williams",
+                         "publisher":  "Williams",
+                         "genre":  "Arcade",
+                         "desc":  "Knights on flying ostriches collide in mid-air; the higher lance wins, and defeated riders drop eggs that must be collected.",
+                         "gameplay":  "Flap to gain altitude, build momentum and strike from above. A pterodactyl arrives if a wave drags on too long.",
+                         "history":  "Designed by John Newcomer, Joust is remembered for its two-player co-operation and its unusual physics-based aerial combat."
+                     },
+    "arcade/JOUSTR":  {
+                          "title":  "Joust",
+                          "group":  "joust",
+                          "year":  1982,
+                          "developer":  "Williams",
+                          "publisher":  "Williams",
+                          "genre":  "Arcade",
+                          "region":  "Alternate ROM set",
+                          "desc":  "An alternate Joust ROM revision preserved in the collection."
+                      },
+    "arcade/JOUSTWR":  {
+                           "title":  "Joust",
+                           "group":  "joust",
+                           "year":  1982,
+                           "developer":  "Williams",
+                           "publisher":  "Williams",
+                           "genre":  "Arcade",
+                           "region":  "Alternate ROM set",
+                           "desc":  "A further Joust ROM revision (white-label set) held in the collection."
+                       },
+    "arcade/JRPACMAN":  {
+                            "title":  "Jr. Pac-Man",
+                            "year":  1983,
+                            "developer":  "Bally Midway",
+                            "publisher":  "Bally Midway",
+                            "genre":  "Maze",
+                            "desc":  "A scrolling Pac-Man sequel in which Jr. Pac-Man clears wider mazes while his bicycle-riding enemies grow faster with each level."
+                        },
+    "arcade/KLAX":  {
+                        "title":  "Klax",
+                        "year":  1989,
+                        "developer":  "Atari Games",
+                        "publisher":  "Atari Games",
+                        "genre":  "Puzzle",
+                        "desc":  "A tile-matching puzzle game in which coloured bricks roll down a conveyor and must be caught and arranged into lines."
+                    },
+    "arcade/LADYBUG":  {
+                           "title":  "Lady Bug",
+                           "year":  1981,
+                           "developer":  "Universal",
+                           "publisher":  "Universal",
+                           "genre":  "Maze",
+                           "desc":  "A maze game with rotating doors and collectible letters, inspired by Pac-Man but built around a different scoring system."
+                       },
+    "arcade/LDRUN":  {
+                         "title":  "Lode Runner",
+                         "year":  1983,
+                         "developer":  "Broderbund",
+                         "publisher":  "Irem",
+                         "genre":  "Puzzle",
+                         "desc":  "A platform puzzle in which a runner collects gold and digs traps to contain pursuing guards."
+                     },
+    "arcade/MAKETRAX":  {
+                            "title":  "Make Trax",
+                            "year":  1981,
+                            "developer":  "Kural Samno",
+                            "publisher":  "Williams",
+                            "genre":  "Maze",
+                            "desc":  "A paint-roller maze game (released in Japan as Crush Roller) in which the player paints every path while avoiding fish."
+                        },
+    "arcade/MAPPY":  {
+                         "title":  "Mappy",
+                         "year":  1983,
+                         "developer":  "Namco",
+                         "publisher":  "Namco",
+                         "genre":  "Platformer",
+                         "desc":  "A police mouse bounces between trampolines and doors, recovering stolen goods from a gang of cats."
+                     },
+    "arcade/MATMANIA":  {
+                            "title":  "Mat Mania",
+                            "year":  1985,
+                            "developer":  "Technos",
+                            "publisher":  "Technos / Taito",
+                            "genre":  "Fighting",
+                            "desc":  "A colourful wrestling game with exaggerated moves and a cast of flamboyant opponents."
+                        },
+    "arcade/MILLIPED":  {
+                            "title":  "Millipede",
+                            "year":  1982,
+                            "developer":  "Atari",
+                            "publisher":  "Atari",
+                            "genre":  "Shooter",
+                            "desc":  "The sequel to Centipede, adding earwigs, spiders, beetles and a wider range of mushroom-shooting tactics."
+                        },
+    "arcade/MISSILE":  {
+                           "title":  "Missile Command",
+                           "slug":  "missile-command",
+                           "year":  1980,
+                           "developer":  "Atari",
+                           "publisher":  "Atari",
+                           "genre":  "Shooter",
+                           "desc":  "A trackball-controlled defence game in which three missile batteries protect six cities from an endless nuclear barrage.",
+                           "gameplay":  "Every interception costs valuable ammunition, and the attack accelerates relentlessly; the game ends when all six cities are lost.",
+                           "history":  "Designed by Dave Theurer, Missile Command is remembered for its Cold War theme and its intense, escalating difficulty."
+                       },
+    "arcade/MPATROL":  {
+                           "title":  "Moon Patrol",
+                           "slug":  "moon-patrol",
+                           "year":  1982,
+                           "developer":  "Irem",
+                           "publisher":  "Irem / Williams",
+                           "genre":  "Shooter",
+                           "desc":  "A buggy rolls across the lunar surface, jumping craters and firing at alien craft while a two-axis parallax background scrolls behind."
+                       },
+    "arcade/MPATROLW":  {
+                            "title":  "Moon Patrol",
+                            "group":  "moon-patrol",
+                            "year":  1982,
+                            "developer":  "Irem",
+                            "publisher":  "Williams",
+                            "genre":  "Shooter",
+                            "region":  "Williams release",
+                            "desc":  "The Williams-licensed release of Moon Patrol, preserved as a separate ROM set."
+                        },
+    "arcade/MRDOT":  {
+                         "title":  "Mr. Do!",
+                         "group":  "mr-do",
+                         "year":  1982,
+                         "developer":  "Universal",
+                         "publisher":  "Universal",
+                         "genre":  "Maze",
+                         "desc":  "A clown digs tunnels through an orchard, dropping apples on enemies or eliminating them with a power ball."
+                     },
+    "arcade/mrdo":  {
+                        "title":  "Mr. Do!",
+                        "group":  "mr-do",
+                        "year":  1982,
+                        "developer":  "Universal",
+                        "publisher":  "Universal",
+                        "genre":  "Maze",
+                        "desc":  "A Mr. Do! ROM set held in the collection."
+                    },
+    "arcade/MSPACMAN":  {
+                            "title":  "Ms. Pac-Man",
+                            "slug":  "ms-pac-man",
+                            "year":  1981,
+                            "developer":  "General Computer Corporation",
+                            "publisher":  "Bally Midway",
+                            "genre":  "Maze",
+                            "desc":  "A faster, more varied Pac-Man with four mazes, moving bonus fruit and smarter ghosts.",
+                            "history":  "Originally an unauthorised enhancement kit, Ms. Pac-Man was licensed by Midway and became one of the most successful arcade games in North America."
+                        },
+    "arcade/OUTRUNA":  {
+                           "title":  "Out Run",
+                           "group":  "out-run",
+                           "year":  1986,
+                           "developer":  "Sega",
+                           "publisher":  "Sega",
+                           "genre":  "Racing",
+                           "desc":  "A behind-the-car driving game with a Ferrari Testarossa, branching routes and a selectable radio soundtrack."
+                       },
+    "arcade/outrun":  {
+                          "title":  "Out Run",
+                          "group":  "out-run",
+                          "year":  1986,
+                          "developer":  "Sega",
+                          "publisher":  "Sega",
+                          "genre":  "Racing",
+                          "desc":  "An Out Run ROM set held in the collection."
+                      },
+    "arcade/PACHEART":  {
+                            "title":  "Pac-Man (PACHEART ROM set)",
+                            "year":  null,
+                            "developer":  "Namco",
+                            "publisher":  "",
+                            "genre":  "Maze",
+                            "desc":  "An arcade Pac-Man-family ROM set held under the identifier PACHEART. The exact revision has not been verified.",
+                            "verified":  false
+                        },
+    "arcade/PACLAND":  {
+                           "title":  "Pac-Land",
+                           "year":  1984,
+                           "developer":  "Namco",
+                           "publisher":  "Namco / Bally Midway",
+                           "genre":  "Platformer",
+                           "desc":  "A side-scrolling Pac-Man platformer with a scrolling world, a fairy companion and a pogo-stick finale."
+                       },
+    "arcade/PACMAN":  {
+                          "title":  "Pac-Man",
+                          "slug":  "pac-man",
+                          "year":  1980,
+                          "developer":  "Namco",
+                          "publisher":  "Namco / Midway",
+                          "genre":  "Maze",
+                          "desc":  "The maze-chase landmark: eat every dot, avoid four ghosts, and turn the tables with a Power Pellet.",
+                          "gameplay":  "Each ghost has its own targeting behaviour — Blinky chases, Pinky ambushes, Inky is unpredictable and Clyde keeps his distance. Bonus fruit appears near the centre.",
+                          "history":  "Designed by Toru Iwatani, Pac-Man was conceived as a game that would appeal to players beyond the shooter crowd and became the best-selling arcade machine of all time.",
+                          "official":  "https://www.bandainamcoent.com/"
+                      },
+    "arcade/PACMANIA":  {
+                            "title":  "Pac-Mania",
+                            "year":  1987,
+                            "developer":  "Namco",
+                            "publisher":  "Namco",
+                            "genre":  "Maze",
+                            "desc":  "An isometric Pac-Man sequel in which the player can jump over ghosts, with scrolling mazes and a rendered 3D look."
+                        },
+    "arcade/PACMANJP":  {
+                            "title":  "Pac-Man",
+                            "group":  "pac-man",
+                            "year":  1980,
+                            "developer":  "Namco",
+                            "publisher":  "Namco",
+                            "genre":  "Maze",
+                            "region":  "Japan",
+                            "desc":  "The Japanese release of Pac-Man (Puck Man), preserved as a separate ROM set."
+                        },
+    "arcade/PACPLUS":  {
+                           "title":  "Pac-Man Plus",
+                           "year":  1982,
+                           "developer":  "Bally Midway",
+                           "publisher":  "Bally Midway",
+                           "genre":  "Maze",
+                           "desc":  "A modified Pac-Man released as an upgrade kit, with invisible mazes, altered ghost behaviour and new bonus items."
+                       },
+    "arcade/PENGO":  {
+                         "title":  "Pengo",
+                         "year":  1982,
+                         "developer":  "Sega",
+                         "publisher":  "Sega",
+                         "genre":  "Maze",
+                         "desc":  "A penguin pushes blocks of ice across a maze to crush pursuing Sno-Bees, with a time-limited bonus round."
+                     },
+    "arcade/PHOENIXT":  {
+                            "title":  "Phoenix",
+                            "group":  "phoenix",
+                            "year":  1980,
+                            "developer":  "Amstar Electronics",
+                            "publisher":  "Taito",
+                            "genre":  "Shooter",
+                            "desc":  "A fixed shooter with five distinct stages, including a mothership boss and a notorious flock of small birds.",
+                            "history":  "Phoenix was one of the first arcade games to feature a boss battle at the end of a stage sequence."
+                        },
+    "arcade/phoenix":  {
+                           "title":  "Phoenix",
+                           "group":  "phoenix",
+                           "year":  1980,
+                           "developer":  "Amstar Electronics",
+                           "publisher":  "Centuri",
+                           "genre":  "Shooter",
+                           "desc":  "A Phoenix ROM set held in the collection."
+                       },
+    "arcade/PITFALL2":  {
+                            "title":  "Pitfall II: Lost Caverns",
+                            "group":  "pitfall-ii-arcade",
+                            "year":  1984,
+                            "developer":  "Sega",
+                            "publisher":  "Sega",
+                            "genre":  "Platformer",
+                            "desc":  "An arcade adaptation of the Atari 2600 exploration game, with Pitfall Harry searching underground caverns for his niece and a diamond."
+                        },
+    "arcade/PITFIGHT":  {
+                            "title":  "Pit Fighter",
+                            "year":  1990,
+                            "developer":  "Atari Games",
+                            "publisher":  "Atari Games",
+                            "genre":  "Fighting",
+                            "desc":  "A digitised-actor fighting game with three selectable brawlers and a chain of increasingly tough opponents."
+                        },
+    "arcade/QBERT":  {
+                         "title":  "Q*bert",
+                         "year":  1982,
+                         "developer":  "Gottlieb",
+                         "publisher":  "Gottlieb / Mylstar",
+                         "genre":  "Puzzle",
+                         "desc":  "An orange creature hops across an isometric pyramid, changing the colour of every cube while dodging Coily and his friends.",
+                         "history":  "Designed by Warren Davis and Jeff Lee, Q*bert is one of the most recognisable arcade characters of the early 1980s."
+                     },
+    "arcade/QBERTQUB":  {
+                            "title":  "Q*bert\u0027s Qubes",
+                            "year":  1983,
+                            "developer":  "Mylstar",
+                            "publisher":  "Mylstar",
+                            "genre":  "Puzzle",
+                            "desc":  "A Q*bert sequel in which cubes must be rotated to match a target pattern, adding a colour-matching puzzle layer."
+                        },
+    "arcade/QIX":  {
+                       "title":  "Qix",
+                       "year":  1981,
+                       "developer":  "Taito",
+                       "publisher":  "Taito",
+                       "genre":  "Puzzle",
+                       "desc":  "A minimalist area-capture game: draw boxes across an empty field while avoiding a swirling, unpredictable Qix."
+                   },
+    "arcade/QIX2":  {
+                        "title":  "Qix II: Tournament",
+                        "year":  1984,
+                        "developer":  "Taito",
+                        "publisher":  "Taito",
+                        "genre":  "Puzzle",
+                        "desc":  "A tournament revision of Qix with altered scoring and faster play."
+                    },
+    "arcade/RALLYX":  {
+                          "title":  "Rally-X",
+                          "group":  "rally-x",
+                          "year":  1980,
+                          "developer":  "Namco",
+                          "publisher":  "Namco / Midway",
+                          "genre":  "Maze",
+                          "desc":  "A driving maze game in which a blue car collects flags while evading red pursuers, with a limited smoke-screen defence.",
+                          "history":  "Rally-X introduced scrolling mazes and a radar map to the arcade, both later reused in Pac-Man."
+                      },
+    "arcade/RALLYXM":  {
+                           "title":  "Rally-X",
+                           "group":  "rally-x",
+                           "year":  1980,
+                           "developer":  "Namco",
+                           "publisher":  "Midway",
+                           "genre":  "Maze",
+                           "region":  "Midway release",
+                           "desc":  "The Midway-licensed version of Rally-X, preserved as a separate ROM set."
+                       },
+    "arcade/ROBOTRON":  {
+                            "title":  "Robotron: 2084",
+                            "slug":  "robotron-2084",
+                            "year":  1982,
+                            "developer":  "Williams",
+                            "publisher":  "Williams",
+                            "genre":  "Shooter",
+                            "desc":  "A twin-stick survival shooter in which a lone human must rescue the last family on Earth from relentless robot hordes.",
+                            "gameplay":  "One stick moves, the other fires in any direction; the screen fills with enemies and the pace only increases.",
+                            "history":  "Designed by Eugene Jarvis and Larry DeMar, Robotron is regarded as the definitive twin-stick shooter and a landmark of pure arcade design."
+                        },
+    "arcade/SBAGMAN":  {
+                           "title":  "Super Bagman",
+                           "group":  "super-bagman",
+                           "year":  1984,
+                           "developer":  "Valadon Automation",
+                           "publisher":  "Stern",
+                           "genre":  "Platformer",
+                           "desc":  "The sequel to Bagman, expanding the mine with new layouts and faster guards."
+                       },
+    "arcade/SHINOBI":  {
+                           "title":  "Shinobi",
+                           "group":  "shinobi",
+                           "year":  1987,
+                           "developer":  "Sega",
+                           "publisher":  "Sega",
+                           "genre":  "Action",
+                           "desc":  "A ninja rescues hostages from a terrorist organisation, using shuriken, a sword and a limited-use ninja magic.",
+                           "history":  "A Sega System 16 hit that spawned a long series and helped define the modern action-platformer."
+                       },
+    "arcade/shinobi.zip":  {
+                               "title":  "Shinobi",
+                               "group":  "shinobi",
+                               "year":  1987,
+                               "developer":  "Sega",
+                               "publisher":  "Sega",
+                               "genre":  "Action",
+                               "desc":  "The zipped Shinobi ROM set held alongside the unpacked folder."
+                           },
+    "arcade/SINISTAR":  {
+                            "title":  "Sinistar",
+                            "year":  1982,
+                            "developer":  "Williams",
+                            "publisher":  "Williams",
+                            "genre":  "Shooter",
+                            "desc":  "A miner gathers crystals to build bombs while a growing mechanical voice announces the arrival of the planet-devouring Sinistar.",
+                            "history":  "Sinistar was an early arcade game with a dynamic camera and one of the first to use stereo sound and digitised speech."
+                        },
+    "arcade/SPELUNKR":  {
+                            "title":  "Spelunker",
+                            "year":  1985,
+                            "developer":  "Irem",
+                            "publisher":  "Irem / Broderbund",
+                            "genre":  "Platformer",
+                            "desc":  "A fragile explorer descends into caverns to collect treasure, dying from even a short fall."
+                        },
+    "arcade/SPYHUNT":  {
+                           "title":  "Spy Hunter",
+                           "year":  1983,
+                           "developer":  "Bally Midway",
+                           "publisher":  "Bally Midway",
+                           "genre":  "Racing",
+                           "desc":  "A spy car races up a scrolling highway, deploying oil slicks and smoke screens while a weapons van upgrades its arsenal.",
+                           "history":  "Spy Hunter\u0027s Peter Gunn-inspired soundtrack and convertible car gimmick made it one of Midway\u0027s most enduring titles."
+                       },
+    "arcade/SQBERT":  {
+                          "title":  "Faster, Harder, More Challenging Q*bert",
+                          "year":  1983,
+                          "developer":  "Mylstar",
+                          "publisher":  "Mylstar",
+                          "genre":  "Puzzle",
+                          "desc":  "A harder revision of Q*bert with faster enemies and revised level layouts, sometimes known as S.Q. Bert."
+                      },
+    "arcade/STARCAS":  {
+                           "title":  "Star Castle",
+                           "year":  1980,
+                           "developer":  "Cinematronics",
+                           "publisher":  "Cinematronics",
+                           "genre":  "Shooter",
+                           "desc":  "A vector shooter in which a rotating fortress of rings must be peeled away to reach the cannon at its centre."
+                       },
+    "arcade/STARGATE":  {
+                            "title":  "Stargate",
+                            "year":  1981,
+                            "developer":  "Williams",
+                            "publisher":  "Williams",
+                            "genre":  "Shooter",
+                            "desc":  "The sequel to Defender, adding an inviso-cloak, a stargate warp and new enemy types across a more complex landscape."
+                        },
+    "arcade/STARWARS":  {
+                            "title":  "Star Wars",
+                            "year":  1983,
+                            "developer":  "Atari",
+                            "publisher":  "Atari",
+                            "genre":  "Shooter",
+                            "desc":  "A vector-graphics rail shooter recreating the Death Star trench run, with digitised speech sampled from the film."
+                        },
+    "arcade/SUPBTIME":  {
+                            "title":  "Super BurgerTime",
+                            "year":  1990,
+                            "developer":  "Data East",
+                            "publisher":  "Data East",
+                            "genre":  "Platformer",
+                            "desc":  "A late sequel to BurgerTime with larger sprites, new enemies and two-player simultaneous play."
+                        },
+    "arcade/SUPERPAC":  {
+                            "title":  "Super Pac-Man",
+                            "year":  1982,
+                            "developer":  "Namco",
+                            "publisher":  "Namco / Bally Midway",
+                            "genre":  "Maze",
+                            "desc":  "A Pac-Man sequel with doors, keys and a super-size power-up that lets Pac-Man smash through ghosts."
+                        },
+    "arcade/TAPPER":  {
+                          "title":  "Tapper",
+                          "year":  1983,
+                          "developer":  "Bally Midway",
+                          "publisher":  "Bally Midway",
+                          "genre":  "Arcade",
+                          "desc":  "A bartender slides drinks down four counters while collecting empty glasses, with a later root-beer variant for family audiences."
+                      },
+    "arcade/TEMPEST":  {
+                           "title":  "Tempest",
+                           "year":  1981,
+                           "developer":  "Atari",
+                           "publisher":  "Atari",
+                           "genre":  "Shooter",
+                           "desc":  "A colour vector shooter fought on the rim of a deep well, with a spinner controller and sixteen abstract tube designs.",
+                           "history":  "Designed by Dave Theurer, Tempest is celebrated for its vector graphics, fast difficulty curve and unique rotary control."
+                       },
+    "arcade/THEEND":  {
+                          "title":  "The End",
+                          "group":  "the-end",
+                          "year":  1980,
+                          "developer":  "Stern",
+                          "publisher":  "Stern",
+                          "genre":  "Shooter",
+                          "desc":  "A space shooter in which the player defends a base at the bottom of the screen from waves of attackers."
+                      },
+    "arcade/THEENDS":  {
+                           "title":  "The End",
+                           "group":  "the-end",
+                           "year":  1980,
+                           "developer":  "Stern",
+                           "publisher":  "Stern",
+                           "genre":  "Shooter",
+                           "region":  "Alternate ROM set",
+                           "desc":  "An alternate The End ROM set preserved in the collection."
+                       },
+    "arcade/TIMEPLT":  {
+                           "title":  "Time Pilot",
+                           "year":  1982,
+                           "developer":  "Konami",
+                           "publisher":  "Konami / Centuri",
+                           "genre":  "Shooter",
+                           "desc":  "A free-scrolling shooter in which the player\u0027s plane flies through five eras, from 1910 biplanes to 2001 UFOs."
+                       },
+    "arcade/TOOBIN":  {
+                          "title":  "Toobin\u0027",
+                          "year":  1988,
+                          "developer":  "Atari Games",
+                          "publisher":  "Atari Games",
+                          "genre":  "Arcade",
+                          "desc":  "A river-rafting game in which two players steer inner tubes downstream, throwing cans at obstacles and each other."
+                      },
+    "arcade/TRACKFLD":  {
+                            "title":  "Track \u0026 Field",
+                            "year":  1983,
+                            "developer":  "Konami",
+                            "publisher":  "Konami / Centuri",
+                            "genre":  "Sports",
+                            "desc":  "A button-mashing athletics game covering sprinting, hurdles, long jump, javelin and hammer throw."
+                        },
+    "arcade/TRON":  {
+                        "title":  "Tron",
+                        "year":  1982,
+                        "developer":  "Bally Midway",
+                        "publisher":  "Bally Midway",
+                        "genre":  "Action",
+                        "desc":  "A four-stage arcade adaptation of the film, mixing light-cycle racing, grid-bug shooting and a recogniser battle."
+                    },
+    "arcade/VENTURE":  {
+                           "title":  "Venture",
+                           "year":  1981,
+                           "developer":  "Exidy",
+                           "publisher":  "Exidy",
+                           "genre":  "Action",
+                           "desc":  "A dungeon crawler with an overhead map and room-by-room combat, in which a treasure hunter raids four monster-filled vaults."
+                       },
+    "arcade/WARRIOR":  {
+                           "title":  "Warrior",
+                           "year":  1979,
+                           "developer":  "Vectorbeam",
+                           "publisher":  "Cinematronics",
+                           "genre":  "Fighting",
+                           "desc":  "A one-on-one vector sword-fighting game often cited as the first versus fighting game."
+                       },
+    "arcade/WOW":  {
+                       "title":  "Wizard of Wor",
+                       "year":  1980,
+                       "developer":  "Midway",
+                       "publisher":  "Midway",
+                       "genre":  "Shooter",
+                       "desc":  "A two-player maze shooter in which warriors hunt monsters in a dark dungeon, with a \u0027worluk\u0027 bonus round."
+                   },
+    "arcade/XEVIOUSA":  {
+                            "title":  "Xevious",
+                            "year":  1982,
+                            "developer":  "Namco",
+                            "publisher":  "Atari",
+                            "genre":  "Shooter",
+                            "desc":  "A vertically scrolling shooter with separate air and ground weapons, and hidden special flags to uncover.",
+                            "history":  "Xevious is often credited as the first vertically scrolling shooter with a distinct ground layer."
+                        },
+    "arcade/ZAXXON":  {
+                          "title":  "Zaxxon",
+                          "year":  1982,
+                          "developer":  "Sega",
+                          "publisher":  "Sega",
+                          "genre":  "Shooter",
+                          "desc":  "An isometric shooter with a pseudo-3D fortress, altitude-based dodging and a notorious robot boss."
+                      },
+    "arcade/aliens":  {
+                          "title":  "Aliens",
+                          "group":  "aliens",
+                          "year":  1990,
+                          "developer":  "Konami",
+                          "publisher":  "Konami",
+                          "genre":  "Action",
+                          "desc":  "A side-scrolling run-and-gun adaptation of the film, with two-player co-op and a motion tracker."
+                      },
+    "arcade/aliensj.zip":  {
+                               "title":  "Aliens",
+                               "group":  "aliens",
+                               "year":  1990,
+                               "developer":  "Konami",
+                               "publisher":  "Konami",
+                               "genre":  "Action",
+                               "region":  "Japan",
+                               "desc":  "The Japanese release of Konami\u0027s Aliens, preserved as a separate ROM set."
+                           },
+    "arcade/arcadecl":  {
+                            "title":  "Arcade Classics (ROM set)",
+                            "year":  null,
+                            "developer":  "",
+                            "publisher":  "",
+                            "genre":  "Arcade",
+                            "desc":  "A compiled arcade ROM set held under the identifier ARCADECL. Its exact contents and release details are not verified.",
+                            "verified":  false
+                        },
+    "arcade/atarifb":  {
+                           "title":  "Atari Football",
+                           "year":  1978,
+                           "developer":  "Atari",
+                           "publisher":  "Atari",
+                           "genre":  "Sports",
+                           "desc":  "A black-and-white trackball football game, one of the first to use a trackball and a scrolling playfield."
+                       },
+    "arcade/atarifb4":  {
+                            "title":  "Atari Football (4-player)",
+                            "year":  1979,
+                            "developer":  "Atari",
+                            "publisher":  "Atari",
+                            "genre":  "Sports",
+                            "desc":  "The four-player cabinet version of Atari Football, with a wider control panel and a larger trackball layout."
+                        },
+    "arcade/bowlrama":  {
+                            "title":  "Bowl-O-Rama",
+                            "year":  null,
+                            "developer":  "",
+                            "publisher":  "",
+                            "genre":  "Sports",
+                            "desc":  "A bowling arcade title held in the collection. Release details are not verified.",
+                            "verified":  false
+                        },
+    "arcade/bubbles":  {
+                           "title":  "Bubbles",
+                           "year":  1982,
+                           "developer":  "Williams",
+                           "publisher":  "Williams",
+                           "genre":  "Arcade",
+                           "desc":  "A top-down game in which a soap bubble cleans a sink by absorbing dirt, growing larger and more vulnerable as it does."
+                       },
+    "arcade/bublbobl":  {
+                            "title":  "Bubble Bobble",
+                            "year":  1986,
+                            "developer":  "Taito",
+                            "publisher":  "Taito",
+                            "genre":  "Platformer",
+                            "desc":  "Two dragons trap enemies in bubbles and pop them across a hundred single-screen stages, with branching routes and co-op play."
+                        },
+    "arcade/citycon":  {
+                           "title":  "City Connection",
+                           "year":  1985,
+                           "developer":  "Jaleco",
+                           "publisher":  "Jaleco",
+                           "genre":  "Racing",
+                           "desc":  "A car paints every road in a city while evading police, jumping between highways and collecting icons."
+                       },
+    "arcade/cloak":  {
+                         "title":  "Cloak \u0026 Dagger",
+                         "year":  1984,
+                         "developer":  "Atari",
+                         "publisher":  "Atari",
+                         "genre":  "Shooter",
+                         "desc":  "A top-down spy shooter tied to the film of the same name, with four distinct multi-screen levels."
+                     },
+    "arcade/commsega":  {
+                            "title":  "Commando (ROM set)",
+                            "year":  null,
+                            "developer":  "Capcom",
+                            "publisher":  "",
+                            "genre":  "Shooter",
+                            "desc":  "A Commando-family ROM set held under the identifier COMMSEGA. The exact regional revision is not verified.",
+                            "verified":  false
+                        },
+    "arcade/dkong3":  {
+                          "title":  "Donkey Kong 3",
+                          "group":  "donkey-kong-3",
+                          "year":  1983,
+                          "developer":  "Nintendo",
+                          "publisher":  "Nintendo",
+                          "genre":  "Shooter",
+                          "desc":  "A greenhouse shooter in which Stanley sprays insecticide at Donkey Kong and his swarm of bugs."
+                      },
+    "arcade/dkongjr":  {
+                           "title":  "Donkey Kong Jr.",
+                           "year":  1982,
+                           "developer":  "Nintendo",
+                           "publisher":  "Nintendo",
+                           "genre":  "Platformer",
+                           "desc":  "Donkey Kong\u0027s son climbs vines and chains to free his caged father, avoiding snapjaws and birds."
+                       },
+    "arcade/docastle":  {
+                            "title":  "Mr. Do\u0027s Castle",
+                            "year":  1983,
+                            "developer":  "Universal",
+                            "publisher":  "Universal",
+                            "genre":  "Platformer",
+                            "desc":  "A Mr. Do! spin-off set in a castle of platforms, where the clown flips floor tiles to trap unicorns."
+                        },
+    "arcade/docastl2":  {
+                            "title":  "Mr. Do\u0027s Castle",
+                            "group":  "mr-dos-castle",
+                            "year":  1983,
+                            "developer":  "Universal",
+                            "publisher":  "Universal",
+                            "genre":  "Platformer",
+                            "region":  "Alternate ROM set",
+                            "desc":  "An alternate Mr. Do\u0027s Castle ROM set held in the collection."
+                        },
+    "arcade/dorunrun":  {
+                            "title":  "Do! Run Run",
+                            "year":  1984,
+                            "developer":  "Universal",
+                            "publisher":  "Universal",
+                            "genre":  "Maze",
+                            "desc":  "A Mr. Do! sequel in which the clown rolls logs around a maze to crush enemies and collect points."
+                        },
+    "arcade/dotron":  {
+                          "title":  "Discs of Tron",
+                          "year":  1983,
+                          "developer":  "Bally Midway",
+                          "publisher":  "Bally Midway",
+                          "genre":  "Action",
+                          "desc":  "A one-on-one disc duel set inside the Tron universe, with a parallax arena and an escalating series of opponents."
+                      },
+    "arcade/dowild":  {
+                          "title":  "Wild Western",
+                          "year":  null,
+                          "developer":  "",
+                          "publisher":  "",
+                          "genre":  "Shooter",
+                          "desc":  "A Western-themed ROM set held under the identifier DOWILD. The title and release details are not verified.",
+                          "verified":  false
+                      },
+    "arcade/fitegolf":  {
+                            "title":  "Fighting Golf",
+                            "year":  1988,
+                            "developer":  "SNK",
+                            "publisher":  "SNK",
+                            "genre":  "Sports",
+                            "desc":  "An arcade golf game with a three-click swing meter and competitive match play."
+                        },
+    "arcade/frenzy":  {
+                          "title":  "Frenzy",
+                          "year":  1982,
+                          "developer":  "Stern",
+                          "publisher":  "Stern",
+                          "genre":  "Shooter",
+                          "desc":  "The sequel to Berzerk, adding destructible walls, new robot types and a level progression system."
+                      },
+    "arcade/junglek":  {
+                           "title":  "Jungle King",
+                           "year":  1982,
+                           "developer":  "Taito",
+                           "publisher":  "Taito",
+                           "genre":  "Platformer",
+                           "desc":  "A jungle adventure in which a explorer swings on vines, swims past crocodiles and rescues a captured companion."
+                       },
+    "arcade/kangaroo":  {
+                            "title":  "Kangaroo",
+                            "year":  1982,
+                            "developer":  "Sun Electronics",
+                            "publisher":  "Atari",
+                            "genre":  "Platformer",
+                            "desc":  "A mother kangaroo punches and climbs her way up a zoo to rescue her joey from monkeys."
+                        },
+    "arcade/kchamp":  {
+                          "title":  "Karate Champ",
+                          "year":  1984,
+                          "developer":  "Data East",
+                          "publisher":  "Data East",
+                          "genre":  "Fighting",
+                          "desc":  "A one-on-one karate game with twin joysticks and a wide set of directional moves, predating Street Fighter."
+                      },
+    "arcade/kick":  {
+                        "title":  "Kick",
+                        "year":  1981,
+                        "developer":  "Bally Midway",
+                        "publisher":  "Bally Midway",
+                        "genre":  "Arcade",
+                        "desc":  "A clown balances on a unicycle and catches falling balloons in this early Bally Midway title."
+                    },
+    "arcade/mario":  {
+                         "title":  "Mario Bros.",
+                         "year":  1983,
+                         "developer":  "Nintendo",
+                         "publisher":  "Nintendo",
+                         "genre":  "Platformer",
+                         "desc":  "Mario and Luigi clear a sewer of turtles and crabs by bumping them from below and kicking them away."
+                     },
+    "arcade/mooncrst":  {
+                            "title":  "Moon Cresta",
+                            "year":  1980,
+                            "developer":  "Nichibutsu",
+                            "publisher":  "Nichibutsu",
+                            "genre":  "Shooter",
+                            "desc":  "A fixed shooter in which three dockable ship sections can be combined, with difficulty rising as sections are lost."
+                        },
+    "arcade/paperboy":  {
+                            "title":  "Paperboy",
+                            "year":  1985,
+                            "developer":  "Atari Games",
+                            "publisher":  "Atari Games",
+                            "genre":  "Arcade",
+                            "desc":  "A paperboy cycles a suburban street, throwing newspapers at subscribers while dodging dogs, cars and lawnmowers."
+                        },
+    "arcade/pigskin":  {
+                           "title":  "Pigskin 621 A.D.",
+                           "year":  1990,
+                           "developer":  "Bally Midway",
+                           "publisher":  "Bally Midway",
+                           "genre":  "Sports",
+                           "desc":  "A violent medieval football game with no rules beyond carrying the ball to the goal."
+                       },
+    "arcade/polepos":  {
+                           "title":  "Pole Position",
+                           "year":  1982,
+                           "developer":  "Namco",
+                           "publisher":  "Namco / Atari",
+                           "genre":  "Racing",
+                           "desc":  "A behind-the-car Formula One racer with a qualifying lap and a Fuji Speedway circuit.",
+                           "history":  "Pole Position popularised the racing game genre and introduced the qualifying-lap structure still used today."
+                       },
+    "arcade/polepos2":  {
+                            "title":  "Pole Position II",
+                            "year":  1983,
+                            "developer":  "Namco",
+                            "publisher":  "Namco / Atari",
+                            "genre":  "Racing",
+                            "desc":  "A sequel to Pole Position with four selectable tracks and improved car handling."
+                        },
+    "arcade/popeye":  {
+                          "title":  "Popeye",
+                          "year":  1982,
+                          "developer":  "Nintendo",
+                          "publisher":  "Nintendo",
+                          "genre":  "Platformer",
+                          "desc":  "Popeye collects hearts and spinach while Bluto pursues Olive Oyl across a three-level stage."
+                      },
+    "arcade/punchout":  {
+                            "title":  "Punch-Out!!",
+                            "year":  1984,
+                            "developer":  "Nintendo",
+                            "publisher":  "Nintendo",
+                            "genre":  "Sports",
+                            "desc":  "A boxing game with two oversized monitors and a cast of cartoon opponents, each with readable tells."
+                        },
+    "arcade/shollow":  {
+                           "title":  "Satan\u0027s Hollow",
+                           "year":  1982,
+                           "developer":  "Bally Midway",
+                           "publisher":  "Bally Midway",
+                           "genre":  "Shooter",
+                           "desc":  "A shooter in which the player builds a bridge across a lava-filled chasm while gargoyles attack from both sides."
+                       },
+    "arcade/simpsons":  {
+                            "title":  "The Simpsons",
+                            "year":  1991,
+                            "developer":  "Konami",
+                            "publisher":  "Konami",
+                            "genre":  "Action",
+                            "desc":  "A four-player beat-\u0027em-up in which the Simpsons rescue Maggie from Smithers and Mr. Burns."
+                        },
+    "arcade/snakepit":  {
+                            "title":  "Snake Pit",
+                            "year":  1983,
+                            "developer":  "Bally Midway",
+                            "publisher":  "Bally Midway",
+                            "genre":  "Action",
+                            "desc":  "A snake-handling game in which a explorer runs through a temple, using a snake to defeat hostile creatures."
+                        },
+    "arcade/spnchout":  {
+                            "title":  "Super Punch-Out!!",
+                            "year":  1984,
+                            "developer":  "Nintendo",
+                            "publisher":  "Nintendo",
+                            "genre":  "Sports",
+                            "desc":  "A refined Punch-Out!! with a transparent player sprite, new opponents and a faster pace."
+                        },
+    "arcade/tagteam":  {
+                           "title":  "Tag Team Wrestling",
+                           "group":  "tag-team-wrestling",
+                           "year":  1983,
+                           "developer":  "Technos",
+                           "publisher":  "Data East",
+                           "genre":  "Fighting",
+                           "desc":  "A tag-team wrestling game with two-player co-op and a colourful cast of masked wrestlers."
+                       },
+    "arcade/tagteam.zip":  {
+                               "title":  "Tag Team Wrestling",
+                               "group":  "tag-team-wrestling",
+                               "year":  1983,
+                               "developer":  "Technos",
+                               "publisher":  "Data East",
+                               "genre":  "Fighting",
+                               "desc":  "The zipped Tag Team Wrestling ROM set held alongside the unpacked folder."
+                           },
+    "arcade/yard":  {
+                        "title":  "10-Yard Fight",
+                        "year":  1983,
+                        "developer":  "Irem",
+                        "publisher":  "Irem / Taito",
+                        "genre":  "Sports",
+                        "desc":  "An American football game with a vertical scrolling field and a simple playbook."
+                    },
+    "arcade/zookeep":  {
+                           "title":  "Zoo Keeper",
+                           "year":  1982,
+                           "developer":  "Taito",
+                           "publisher":  "Taito",
+                           "genre":  "Arcade",
+                           "desc":  "A zookeeper runs around a zoo enclosure, jumping over animals and rescuing a escaped monkey while a timer runs down."
+                       },
+    "arcade/720.zip":  {
+                           "title": "720\u00b0",
+                           "year":  1986,
+                           "developer":  "Atari Games",
+                           "publisher":  "Atari Games",
+                           "genre":  "Sports",
+                           "desc":  "A skateboarding game built around a rotational joystick, with a large scrolling skate park and a map screen."
+                       },
+    "arcade/airwolf.zip":  {
+                               "title":  "Airwolf",
+                               "year":  1987,
+                               "developer":  "Kyugo",
+                               "publisher":  "Kyugo",
+                               "genre":  "Shooter",
+                               "desc":  "A horizontal helicopter shooter based on the television series, with a recharging cannon and missile sub-weapon."
+                           },
+    "arcade/aliensyn.zip":  {
+                                "title":  "Alien Syndrome",
+                                "year":  1987,
+                                "developer":  "Sega",
+                                "publisher":  "Sega",
+                                "genre":  "Shooter",
+                                "desc":  "A top-down run-and-gun in which two players rescue hostages from an infested space station before a timer expires."
+                            },
+    "arcade/apb.zip":  {
+                           "title":  "A.P.B.",
+                           "year":  1987,
+                           "developer":  "Atari Games",
+                           "publisher":  "Atari Games",
+                           "genre":  "Arcade",
+                           "desc":  "A police driving game in which an officer issues tickets and chases suspects across a scrolling city."
+                       },
+    "arcade/archrivl.zip":  {
+                                "title":  "Arch Rivals",
+                                "year":  1989,
+                                "developer":  "Midway",
+                                "publisher":  "Midway",
+                                "genre":  "Sports",
+                                "desc":  "A two-on-two basketball game with no fouls, built for shoving opponents and dunking on a scrolling court."
+                            },
+    "arcade/arkanoi2.zip":  {
+                                "title":  "Arkanoid: Revenge of Doh",
+                                "group":  "arkanoid-revenge-of-doh",
+                                "year":  1987,
+                                "developer":  "Taito",
+                                "publisher":  "Taito",
+                                "genre":  "Puzzle",
+                                "desc":  "The sequel to Arkanoid, adding enemies that fire at the paddle and a final boss, Doh."
+                            },
+    "arcade/ark2jp.zip":  {
+                              "title":  "Arkanoid: Revenge of Doh",
+                              "group":  "arkanoid-revenge-of-doh",
+                              "year":  1987,
+                              "developer":  "Taito",
+                              "publisher":  "Taito",
+                              "genre":  "Puzzle",
+                              "region":  "Japan",
+                              "desc":  "The Japanese release of Arkanoid: Revenge of Doh."
+                          },
+    "arcade/arkanoid.zip":  {
+                                "title":  "Arkanoid",
+                                "year":  1986,
+                                "developer":  "Taito",
+                                "publisher":  "Taito",
+                                "genre":  "Puzzle",
+                                "desc":  "A breakout-style brick breaker with power-up capsules, angled paddle physics and a boss encounter.",
+                                "history":  "Arkanoid refined the Breakout formula and became one of Taito\u0027s most ported arcade games."
+                            },
+    "arcade/armwrest.zip":  {
+                                "title":  "Arm Wrestling",
+                                "year":  1985,
+                                "developer":  "Nintendo",
+                                "publisher":  "Nintendo",
+                                "genre":  "Sports",
+                                "desc":  "A dual-screen arm-wrestling game with a rotating joystick and a cast of cartoon opponents."
+                            },
+    "arcade/basebal2.zip":  {
+                                "title":  "Baseball (ROM set BASEBAL2)",
+                                "year":  null,
+                                "developer":  "",
+                                "publisher":  "",
+                                "genre":  "Sports",
+                                "desc":  "A baseball arcade ROM set held under the identifier BASEBAL2. Exact release details are not verified.",
+                                "verified":  false
+                            },
+    "arcade/bladestl.zip":  {
+                                "title":  "Blade Steeler (ROM set)",
+                                "year":  null,
+                                "developer":  "",
+                                "publisher":  "",
+                                "genre":  "Action",
+                                "desc":  "An arcade title held under the identifier BLADESTL. The title and release details are not verified.",
+                                "verified":  false
+                            },
+    "arcade/bsktball.zip":  {
+                                "title":  "Basketball (ROM set)",
+                                "year":  null,
+                                "developer":  "",
+                                "publisher":  "",
+                                "genre":  "Sports",
+                                "desc":  "A basketball arcade ROM set held under the identifier BSKTBALL. Release details are not verified.",
+                                "verified":  false
+                            },
+    "arcade/bssoccer.zip":  {
+                                "title":  "Soccer (ROM set BSSOCCER)",
+                                "year":  null,
+                                "developer":  "",
+                                "publisher":  "",
+                                "genre":  "Sports",
+                                "desc":  "A soccer arcade ROM set held under the identifier BSSOCCER. Release details are not verified.",
+                                "verified":  false
+                            },
+    "arcade/cavenger.zip":  {
+                                "title":  "Cosmic Avenger",
+                                "year":  1981,
+                                "developer":  "Universal",
+                                "publisher":  "Universal",
+                                "genre":  "Shooter",
+                                "desc":  "A horizontal shooter with a colourful landscape, ground targets and a scrolling cave section."
+                            },
+    "arcade/cclimbr2.zip":  {
+                                "title":  "Crazy Climber 2",
+                                "year":  1988,
+                                "developer":  "Nichibutsu",
+                                "publisher":  "Nichibutsu",
+                                "genre":  "Action",
+                                "desc":  "The sequel to Crazy Climber, adding new buildings, weather hazards and cooperative climbing."
+                            },
+    "arcade/chopper.zip":  {
+                               "title":  "Chopper I",
+                               "year":  null,
+                               "developer":  "SNK",
+                               "publisher":  "SNK",
+                               "genre":  "Shooter",
+                               "desc":  "A vertical helicopter shooter held in the collection. Release year is not verified.",
+                               "verified":  false
+                           },
+    "arcade/chplft.zip":  {
+                              "title":  "Choplifter",
+                              "year":  1985,
+                              "developer":  "Sega",
+                              "publisher":  "Sega",
+                              "genre":  "Shooter",
+                              "desc":  "A rescue helicopter picks up hostages from hostile territory while dodging tanks, jets and anti-aircraft fire."
+                          },
+    "arcade/clowns.zip":  {
+                              "title":  "Clowns",
+                              "year":  1978,
+                              "developer":  "Midway",
+                              "publisher":  "Midway",
+                              "genre":  "Arcade",
+                              "desc":  "A black-and-white balloon-popping game in which two clowns walk a tightrope and swing across the screen."
+                          },
+    "arcade/cop01.zip":  {
+                             "title":  "Cop 01",
+                             "year":  null,
+                             "developer":  "",
+                             "publisher":  "",
+                             "genre":  "Action",
+                             "desc":  "An arcade action title held under the identifier COP01. Release details are not verified.",
+                             "verified":  false
+                         },
+    "arcade/copsnrob.zip":  {
+                                "title":  "Cops\u0027n Robbers",
+                                "year":  1985,
+                                "developer":  "Atari Games",
+                                "publisher":  "Atari Games",
+                                "genre":  "Shooter",
+                                "desc":  "A top-down driving shooter in which a police car chases robbers through city streets."
+                            },
+    "arcade/ddragon.zip":  {
+                               "title":  "Double Dragon",
+                               "year":  1987,
+                               "developer":  "Technos",
+                               "publisher":  "Technos / Taito",
+                               "genre":  "Fighting",
+                               "desc":  "A side-scrolling beat-\u0027em-up in which two brothers rescue Marian from the Black Warriors gang.",
+                               "history":  "Double Dragon defined the co-operative beat-\u0027em-up formula and became one of the most influential arcade games of the late 1980s."
+                           },
+    "arcade/ddragon2.zip":  {
+                                "title":  "Double Dragon II: The Revenge",
+                                "year":  1988,
+                                "developer":  "Technos",
+                                "publisher":  "Technos",
+                                "genre":  "Fighting",
+                                "desc":  "A sequel with a directional attack system, new stages and a revenge plot after Marian\u0027s death."
+                            },
+    "arcade/ddragon3.zip":  {
+                                "title":  "Double Dragon 3: The Rosetta Stone",
+                                "year":  1990,
+                                "developer":  "Technos",
+                                "publisher":  "Technos",
+                                "genre":  "Fighting",
+                                "desc":  "The third Double Dragon, adding shops where players buy moves and items with real credits."
+                            },
+    "arcade/digdug2.zip":  {
+                               "title":  "Dig Dug II",
+                               "year":  1985,
+                               "developer":  "Namco",
+                               "publisher":  "Namco",
+                               "genre":  "Maze",
+                               "desc":  "A sequel set on an island, where Dig Dug drills fault lines to sink sections of land into the sea."
+                           },
+    "arcade/digger.zip":  {
+                              "title":  "Digger",
+                              "year":  null,
+                              "developer":  "",
+                              "publisher":  "",
+                              "genre":  "Action",
+                              "desc":  "An arcade digging game held under the identifier DIGGER. Release details are not verified.",
+                              "verified":  false
+                          },
+    "arcade/dino.zip":  {
+                            "title":  "Cadillacs and Dinosaurs",
+                            "year":  1993,
+                            "developer":  "Capcom",
+                            "publisher":  "Capcom",
+                            "genre":  "Fighting",
+                            "desc":  "A four-player beat-\u0027em-up based on the Xenozoic Tales comic, with dinosaurs, vehicles and a post-apocalyptic city."
+                        },
+    "arcade/dinorex.zip":  {
+                               "title":  "Dino Rex",
+                               "year":  1992,
+                               "developer":  "Taito",
+                               "publisher":  "Taito",
+                               "genre":  "Fighting",
+                               "desc":  "A dinosaur-versus-dinosaur fighting game with digitised sprite artwork and a prehistoric tournament framing."
+                           },
+    "arcade/empcity.zip":  {
+                               "title":  "Empire City: 1931",
+                               "group":  "empire-city-1931",
+                               "year":  1986,
+                               "developer":  "Seibu Kaihatsu",
+                               "publisher":  "Seibu Kaihatsu",
+                               "genre":  "Shooter",
+                               "desc":  "A vertical shooter in which a 1930s gangster fires from a car window at pursuing rivals and police."
+                           },
+    "arcade/empcityj.zip":  {
+                                "title":  "Empire City: 1931",
+                                "group":  "empire-city-1931",
+                                "year":  1986,
+                                "developer":  "Seibu Kaihatsu",
+                                "publisher":  "Seibu Kaihatsu",
+                                "genre":  "Shooter",
+                                "region":  "Japan",
+                                "desc":  "The Japanese release of Empire City: 1931."
+                            },
+    "arcade/empire.zip":  {
+                              "title":  "Empire (ROM set)",
+                              "year":  null,
+                              "developer":  "",
+                              "publisher":  "",
+                              "genre":  "Action",
+                              "desc":  "An arcade ROM set held under the identifier EMPIRE. The exact title and release details are not verified.",
+                              "verified":  false
+                          },
+    "arcade/foodf.zip":  {
+                             "title":  "Food Fight",
+                             "year":  1983,
+                             "developer":  "Atari",
+                             "publisher":  "Atari",
+                             "genre":  "Arcade",
+                             "desc":  "A chef collects ice cream while dodging food-throwing opponents in an isometric arena."
+                         },
+    "arcade/ftsoccer.zip":  {
+                                "title":  "Soccer (ROM set FTSOCCER)",
+                                "year":  null,
+                                "developer":  "",
+                                "publisher":  "",
+                                "genre":  "Sports",
+                                "desc":  "A soccer arcade ROM set held under the identifier FTSOCCER. Release details are not verified.",
+                                "verified":  false
+                            },
+    "arcade/gghost.zip":  {
+                              "title":  "Golly! Ghost!",
+                              "year":  1990,
+                              "developer":  "Namco",
+                              "publisher":  "Namco",
+                              "genre":  "Shooter",
+                              "desc":  "A light-gun game in which players shoot ghosts in a haunted house, with a mechanical backdrop."
+                          },
+    "arcade/ghostb.zip":  {
+                              "title":  "The Real Ghostbusters",
+                              "year":  1987,
+                              "developer":  "Data East",
+                              "publisher":  "Data East",
+                              "genre":  "Shooter",
+                              "desc":  "A top-down shooter based on the animated series, with three playable Ghostbusters and a vacuum weapon."
+                          },
+    "arcade/ghouls.zip":  {
+                              "title":  "Ghouls\u0027n Ghosts",
+                              "year":  1988,
+                              "developer":  "Capcom",
+                              "publisher":  "Capcom",
+                              "genre":  "Platformer",
+                              "desc":  "The sequel to Ghosts\u0027n Goblins, with Arthur again fighting through demonic stages to save Prin-Prin."
+                          },
+    "arcade/gng.zip":  {
+                           "title":  "Ghosts\u0027n Goblins",
+                           "year":  1985,
+                           "developer":  "Capcom",
+                           "publisher":  "Capcom",
+                           "genre":  "Platformer",
+                           "desc":  "A punishing platformer in which knight Arthur battles the undead to rescue Prin-Prin, losing his armour in one hit."
+                       },
+    "arcade/gravitar.zip":  {
+                                "title":  "Gravitar",
+                                "year":  1982,
+                                "developer":  "Atari",
+                                "publisher":  "Atari",
+                                "genre":  "Shooter",
+                                "desc":  "A vector game combining gravity-based space flight with planetary cave shooting, spread across a star map."
+                            },
+    "arcade/gunfight.zip":  {
+                                "title":  "Gun Fight",
+                                "year":  1975,
+                                "developer":  "Midway",
+                                "publisher":  "Midway",
+                                "genre":  "Shooter",
+                                "desc":  "A two-player Old West duel with scrolling backgrounds and simple cover, one of the earliest arcade shooters."
+                            },
+    "arcade/indytemp.zip":  {
+                                "title":  "Indiana Jones and the Temple of Doom",
+                                "year":  1985,
+                                "developer":  "Atari Games",
+                                "publisher":  "Atari Games",
+                                "genre":  "Action",
+                                "desc":  "A whip-cracking adventure through the film\u0027s mine cart chase, with multiple stages and a bonus round."
+                            },
+    "arcade/lastduel.zip":  {
+                                "title":  "Last Duel",
+                                "year":  1988,
+                                "developer":  "Capcom",
+                                "publisher":  "Capcom",
+                                "genre":  "Shooter",
+                                "desc":  "A vertical shooter that alternates between a spaceship and a transforming motorcycle/mech, with a road-based second phase."
+                            },
+    "arcade/llander.zip":  {
+                               "title":  "Lunar Lander",
+                               "year":  1979,
+                               "developer":  "Atari",
+                               "publisher":  "Atari",
+                               "genre":  "Simulation",
+                               "desc":  "A vector-graphics landing simulation in which thrust and rotation must be balanced to touch down on a narrow pad."
+                           },
+    "arcade/mach3.zip":  {
+                             "title":  "M.A.C.H. 3",
+                             "year":  1983,
+                             "developer":  "Mylstar",
+                             "publisher":  "Mylstar",
+                             "genre":  "Shooter",
+                             "desc":  "A laserdisc arcade game mixing live-action flight footage with a sprite overlay, in jet and bomber modes."
+                         },
+    "arcade/marble.zip":  {
+                              "title":  "Marble Madness",
+                              "year":  1984,
+                              "developer":  "Atari Games",
+                              "publisher":  "Atari Games",
+                              "genre":  "Arcade",
+                              "desc":  "A trackball-controlled race through isometric obstacle courses, guiding a marble past acid pools and vacuums."
+                          },
+    "arcade/mjleague.zip":  {
+                                "title":  "Major League",
+                                "year":  1985,
+                                "developer":  "Sega",
+                                "publisher":  "Sega",
+                                "genre":  "Sports",
+                                "desc":  "A baseball game with a behind-the-batter view and simple timing-based batting."
+                            },
+    "arcade/nbajam.zip":  {
+                              "title":  "NBA Jam",
+                              "group":  "nba-jam",
+                              "year":  1993,
+                              "developer":  "Midway",
+                              "publisher":  "Midway",
+                              "genre":  "Sports",
+                              "desc":  "A two-on-two basketball game built around exaggerated dunks, three-point streaks and on-fire scoring."
+                          },
+    "arcade/nbajamr2.zip":  {
+                                "title":  "NBA Jam",
+                                "group":  "nba-jam",
+                                "year":  1993,
+                                "developer":  "Midway",
+                                "publisher":  "Midway",
+                                "genre":  "Sports",
+                                "region":  "Revision 2",
+                                "desc":  "Revision 2 of NBA Jam, preserved as its own ROM set."
+                            },
+    "arcade/nbajamt1.zip":  {
+                                "title":  "NBA Jam",
+                                "group":  "nba-jam",
+                                "year":  1993,
+                                "developer":  "Midway",
+                                "publisher":  "Midway",
+                                "genre":  "Sports",
+                                "region":  "Tournament revision 1",
+                                "desc":  "An early tournament revision of NBA Jam."
+                            },
+    "arcade/nbajamt2.zip":  {
+                                "title":  "NBA Jam",
+                                "group":  "nba-jam",
+                                "year":  1993,
+                                "developer":  "Midway",
+                                "publisher":  "Midway",
+                                "genre":  "Sports",
+                                "region":  "Tournament revision 2",
+                                "desc":  "A later tournament revision of NBA Jam."
+                            },
+    "arcade/nbajamt3.zip":  {
+                                "title":  "NBA Jam",
+                                "group":  "nba-jam",
+                                "year":  1993,
+                                "developer":  "Midway",
+                                "publisher":  "Midway",
+                                "genre":  "Sports",
+                                "region":  "Tournament revision 3",
+                                "desc":  "A further tournament revision of NBA Jam."
+                            },
+    "arcade/nbajamte.zip":  {
+                                "title":  "NBA Jam Tournament Edition",
+                                "year":  1994,
+                                "developer":  "Midway",
+                                "publisher":  "Midway",
+                                "genre":  "Sports",
+                                "desc":  "An expanded NBA Jam with more teams, new secret characters and a tournament structure."
+                            },
+    "arcade/nbamaxht.zip":  {
+                                "title":  "NBA Maximum Hangtime",
+                                "year":  1996,
+                                "developer":  "Midway",
+                                "publisher":  "Midway",
+                                "genre":  "Sports",
+                                "desc":  "A later NBA Jam update with additional teams and revised rules."
+                            },
+    "arcade/pitfall2.zip":  {
+                                "title":  "Pitfall II: Lost Caverns",
+                                "group":  "pitfall-ii-arcade",
+                                "year":  1984,
+                                "developer":  "Sega",
+                                "publisher":  "Sega",
+                                "genre":  "Platformer",
+                                "desc":  "The zipped arcade Pitfall II ROM set held alongside the unpacked folder."
+                            },
+    "arcade/rampage.zip":  {
+                               "title":  "Rampage",
+                               "year":  1986,
+                               "developer":  "Bally Midway",
+                               "publisher":  "Bally Midway",
+                               "genre":  "Action",
+                               "desc":  "Three giant monsters smash buildings across North America while the military tries to stop them."
+                           },
+    "arcade/robocop.zip":  {
+                               "title":  "RoboCop",
+                               "group":  "robocop",
+                               "year":  1988,
+                               "developer":  "Data East",
+                               "publisher":  "Data East",
+                               "genre":  "Action",
+                               "desc":  "A run-and-gun adaptation of the film, with RoboCop shooting through Old Detroit to confront ED-209."
+                           },
+    "arcade/robocopp.zip":  {
+                                "title":  "RoboCop",
+                                "group":  "robocop",
+                                "year":  1988,
+                                "developer":  "Data East",
+                                "publisher":  "Data East",
+                                "genre":  "Action",
+                                "region":  "Prototype",
+                                "desc":  "A prototype revision of Data East\u0027s RoboCop, preserved separately in the collection."
+                            },
+    "arcade/robocop2.zip":  {
+                                "title":  "RoboCop 2",
+                                "year":  1991,
+                                "developer":  "Data East",
+                                "publisher":  "Data East",
+                                "genre":  "Action",
+                                "desc":  "A side-scrolling sequel based on the second film, with driving sections and a final battle against RoboCop 2."
+                            },
+    "arcade/sbasketb.zip":  {
+                                "title":  "Super Basketball",
+                                "year":  1984,
+                                "developer":  "Konami",
+                                "publisher":  "Konami",
+                                "genre":  "Sports",
+                                "desc":  "A vertical basketball game with a scrolling court and simple two-on-two play."
+                            },
+    "arcade/sbrkout.zip":  {
+                               "title":  "Super Breakout",
+                               "year":  1978,
+                               "developer":  "Atari",
+                               "publisher":  "Atari",
+                               "genre":  "Arcade",
+                               "desc":  "An expanded Breakout with three game modes, multiple balls and moving brick walls."
+                           },
+    "arcade/scramble.zip":  {
+                                "title":  "Scramble",
+                                "year":  1981,
+                                "developer":  "Konami",
+                                "publisher":  "Konami / Stern",
+                                "genre":  "Shooter",
+                                "desc":  "A horizontal shooter with a scrolling landscape, fuel management and a six-stage mission ending at a enemy base.",
+                                "history":  "Scramble is often cited as the first side-scrolling shooter with a continuously scrolling terrain."
+                            },
+    "arcade/sf1.zip":  {
+                           "title":  "Street Fighter",
+                           "year":  1987,
+                           "developer":  "Capcom",
+                           "publisher":  "Capcom",
+                           "genre":  "Fighting",
+                           "desc":  "The first Street Fighter, introducing six-button pressure-pad controls and a world warrior tournament.",
+                           "history":  "Though modestly successful, Street Fighter laid the groundwork for its genre-defining sequel."
+                       },
+    "arcade/sf2.zip":  {
+                           "title":  "Street Fighter II: The World Warrior",
+                           "slug":  "street-fighter-ii",
+                           "group":  "street-fighter-ii",
+                           "year":  1991,
+                           "developer":  "Capcom",
+                           "publisher":  "Capcom",
+                           "genre":  "Fighting",
+                           "desc":  "The eight-character fighting game that defined competitive play, with special moves, combos and a global tournament.",
+                           "gameplay":  "Each fighter has a distinct move set and a six-button layout: three punches and three kicks of varying strength. Quarter-circle and charge motions trigger special attacks.",
+                           "history":  "Designed by Akira Nishitani and Akira Yasuda, Street Fighter II ignited the 1990s fighting-game boom and remains one of the most influential games ever made.",
+                           "official":  "https://www.capcom.com/"
+                       },
+    "arcade/sf2ce.zip":  {
+                             "title":  "Street Fighter II\u0027: Champion Edition",
+                             "group":  "street-fighter-ii",
+                             "year":  1992,
+                             "developer":  "Capcom",
+                             "publisher":  "Capcom",
+                             "genre":  "Fighting",
+                             "region":  "Champion Edition",
+                             "desc":  "A revision that makes the four boss characters playable and allows mirror matches."
+                         },
+    "arcade/sf2i.zip":  {
+                            "title":  "Street Fighter II\u0027 Turbo: Hyper Fighting",
+                            "group":  "street-fighter-ii",
+                            "year":  1992,
+                            "developer":  "Capcom",
+                            "publisher":  "Capcom",
+                            "genre":  "Fighting",
+                            "region":  "Hyper Fighting",
+                            "desc":  "A faster revision of Champion Edition with new special moves and increased game speed."
+                        },
+    "arcade/superman.zip":  {
+                                "title":  "Superman",
+                                "year":  1988,
+                                "developer":  "Taito",
+                                "publisher":  "Taito",
+                                "genre":  "Action",
+                                "desc":  "A side-scrolling Superman game in which the hero flies through Metropolis, using heat vision and super breath."
+                            },
+    "arcade/tetris.zip":  {
+                              "title":  "Tetris (arcade)",
+                              "group":  "tetris-arcade",
+                              "year":  1988,
+                              "developer":  "Atari Games",
+                              "publisher":  "Atari Games",
+                              "genre":  "Puzzle",
+                              "desc":  "The arcade conversion of Tetris, with a two-player competitive mode and a trackball-controlled option."
+                          },
+    "arcade/tetrist.zip":  {
+                               "title":  "Tetris (Sega)",
+                               "group":  "tetris-arcade",
+                               "year":  1988,
+                               "developer":  "Sega",
+                               "publisher":  "Sega",
+                               "genre":  "Puzzle",
+                               "region":  "Japan",
+                               "desc":  "Sega\u0027s Japanese arcade release of Tetris, based on the same falling-block rules."
+                           },
+    "arcade/tetrisbl.zip":  {
+                                "title":  "Tetris (bootleg)",
+                                "group":  "tetris-arcade",
+                                "year":  null,
+                                "developer":  "",
+                                "publisher":  "",
+                                "genre":  "Puzzle",
+                                "region":  "Bootleg",
+                                "desc":  "A bootleg arcade Tetris board held in the collection. Its origin is not verified.",
+                                "verified":  false
+                            },
+    "arcade/uccops.zip":  {
+                              "title":  "Undercover Cops",
+                              "year":  1992,
+                              "developer":  "Irem",
+                              "publisher":  "Irem",
+                              "genre":  "Fighting",
+                              "desc":  "A dystopian beat-\u0027em-up with three playable cops, large sprites and a ruined-city setting."
+                          }
+}
+

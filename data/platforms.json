@@ -1,0 +1,173 @@
+{
+  "_comment": "Platform-level reference data used across the site. Compatibility labels describe the platform as a whole and are not a per-ROM test result.",
+
+  "arcade": {
+    "name": "MAME / Arcade",
+    "shortName": "Arcade",
+    "folder": "arcade",
+    "tagline": "Coin-op classics, one cabinet at a time",
+    "description": "Stand-up arcade boards running everything from vector shooters to four-player brawlers, preserved as MAME ROM sets.",
+    "longDescription": "The arcade group is the largest part of the collection and holds two kinds of entry: unpacked ROM-set folders (such as DKONG) and zipped ROM sets (such as sf2.zip). Both are MAME-style sets, and MAME expects the archive or folder name to match the driver name exactly. Arcade hardware changed constantly between 1978 and the mid-1990s, so each set emulates a different board — from a 1 MHz 8080 to 16-bit dual-68000 systems.",
+    "hardware": "Original arcade printed circuit boards, emulated in MAME",
+    "emulator": "MAME (standalone) or FinalBurn Neo / MAME cores inside RetroArch",
+    "compatibility": "REQUIRES CONFIGURATION",
+    "compatibilityNote": "Arcade sets must match the emulator's ROM set version. A set that runs in one MAME release can fail in another; the ROM set is only as good as the driver that expects it.",
+    "piModels": "Pi 4 (2 GB+) or Pi 5 recommended. Pi 3B+ handles most pre-1986 titles; Pi Zero 2 W is best limited to early 8-bit boards.",
+    "controller": "Keyboard, arcade stick or any USB/Bluetooth gamepad. Twin-stick titles (Robotron, Black Widow) need two analogue sticks or a dual-stick layout.",
+    "install": "Install MAME through RetroPie's package manager or RetroArch's online updater, then place each ROM set in the arcade ROM directory without renaming it.",
+    "difficulty": "Moderate",
+    "resources": [
+      { "label": "MAME official site", "url": "https://www.mamedev.org/" },
+      { "label": "MAME documentation", "url": "https://docs.mamedev.org/" },
+      { "label": "RetroPie arcade guide", "url": "https://retropie.org.uk/docs/Arcade/" }
+    ]
+  },
+
+  "nes": {
+    "name": "Nintendo Entertainment System",
+    "shortName": "NES",
+    "folder": "nes",
+    "tagline": "The 8-bit foundation of console gaming",
+    "description": "Nintendo's 8-bit home console, home to platformers, RPGs and a huge library of licensed and unlicensed cartridges.",
+    "longDescription": "The NES group is made up of .nes ROM images named after their cartridges. The filenames mix styles — some use No-Intro conventions, others use underscores or short abbreviations — so RB Hub normalises them for display while keeping the original filename intact. The library includes emulator files such as BioNES.exe and Nesticle.pal in the same folder; those are excluded from the Game Library.",
+    "hardware": "Ricoh 2A03 (6502-derived) CPU with the NES PPU",
+    "emulator": "Nestopia or FCEUmm (RetroArch); Mesen2 for accuracy",
+    "compatibility": "FULLY COMPATIBLE",
+    "compatibilityNote": "NES emulation is lightweight and well documented at full speed on a Pi 3 or newer. Mapper support is the main variable: unusual or homebrew mappers may need a specific core.",
+    "piModels": "Pi 3B+, Pi 4 or Pi 5. Even a Pi Zero 2 W can run most NES titles.",
+    "controller": "Any gamepad. A NES-style pad suits the two-button layout; Zapper games need a mouse or a compatible light gun.",
+    "install": "Install lr-nestopia or lr-fceumm through RetroPie, or load the Nestopia core in RetroArch, then copy .nes files into the nes ROM folder.",
+    "difficulty": "Easy",
+    "resources": [
+      { "label": "RetroPie NES guide", "url": "https://retropie.org.uk/docs/Nintendo-Entertainment-System/" },
+      { "label": "Nestopia core", "url": "https://github.com/libretro/nestopia" },
+      { "label": "Mesen2", "url": "https://github.com/SourMesen/Mesen2" }
+    ]
+  },
+
+  "snes": {
+    "name": "Super Nintendo Entertainment System",
+    "shortName": "SNES",
+    "folder": "snes",
+    "tagline": "16-bit colour, Mode 7 and cartridge chips",
+    "description": "Nintendo's 16-bit console, with the collection's compressed No-Intro sets plus loose .sfc and .smc files.",
+    "longDescription": "The SNES group mixes zipped No-Intro sets (alphabetically A–D in the source inventory) with loose .sfc and .smc ROM images for a set of well-known titles. Filename tags such as (USA), (Japan), (Europe), (Rev 1), (Proto) and (Beta) identify the dump and are listed as variants on each game page.",
+    "hardware": "Ricoh 5A22 (65816-derived) with the SPC700 sound chip",
+    "emulator": "Snes9x (retroarch core) or bsnes for higher accuracy",
+    "compatibility": "PARTIALLY COMPATIBLE",
+    "compatibilityNote": "Standard cartridges run well on a Pi 4. Games using enhancement chips (Super FX, SA-1, DSP-1) and some fan hacks need a specific core and may dip below full speed.",
+    "piModels": "Pi 4 or Pi 5 recommended; Pi 3B+ is adequate for most titles without enhancement chips.",
+    "controller": "A SNES-style pad with four face buttons and two shoulder buttons covers every control scheme in the library.",
+    "install": "Install lr-snes9x via RetroPie or load Snes9x in RetroArch, then place the .zip/.sfc/.smc files in the snes ROM folder — compressed sets can be used directly.",
+    "difficulty": "Easy",
+    "resources": [
+      { "label": "RetroPie SNES guide", "url": "https://retropie.org.uk/docs/Super-Nintendo-Entertainment-System/" },
+      { "label": "Snes9x core", "url": "https://github.com/libretro/snes9x" }
+    ]
+  },
+
+  "atari2600": {
+    "name": "Atari 2600",
+    "shortName": "Atari 2600",
+    "folder": "atari2600",
+    "tagline": "The console that started the cartridge era",
+    "description": "Atari's 1977 console, represented by twelve .bin cartridge images of arcade ports and original Activision classics.",
+    "longDescription": "The Atari 2600 group holds twelve .bin cartridge dumps. The files use both .bin and .BIN extensions, which are equivalent; the emulator does not care about case. Every title here is a genuine cartridge release, including the Parker Brothers Frogger port and Activision's Pitfall!.",
+    "hardware": "MOS 6507 CPU with the TIA video/audio chip",
+    "emulator": "Stella",
+    "compatibility": "FULLY COMPATIBLE",
+    "compatibilityNote": "The 2600 is one of the lightest systems to emulate; Stella has run at full speed on Raspberry Pi hardware since the Pi 2.",
+    "piModels": "Any model from Pi 3 onward. Pi Zero and Pi Zero 2 W also cope comfortably.",
+    "controller": "A single-button joystick is enough. Paddle games such as Kaboom! need an analogue paddle or a mouse mapped to paddle input.",
+    "install": "Install Stella (lr-stella) through RetroPie or RetroArch, then copy .bin files into the atari2600 ROM folder.",
+    "difficulty": "Easy",
+    "resources": [
+      { "label": "Stella emulator", "url": "https://stella-emu.github.io/" },
+      { "label": "RetroPie Atari 2600 guide", "url": "https://retropie.org.uk/docs/Atari-2600/" }
+    ]
+  },
+
+  "gba": {
+    "name": "Game Boy Advance",
+    "shortName": "GBA",
+    "folder": "gba",
+    "tagline": "32-bit handheld role-playing",
+    "description": "Nintendo's 32-bit handheld, represented here by seven .gba titles including Pokémon, Fire Emblem and Mother 3.",
+    "longDescription": "The Game Boy Advance group contains seven .gba ROM images. Several are Japan-only releases (Fire Emblem: Fūin no Tsurugi and Mother 3), which matters when looking for legitimate copies. The library stores the filename exactly as it appears in the inventory.",
+    "hardware": "ARM7TDMI with a custom 2D graphics chip",
+    "emulator": "mGBA (retroarch core) or gpSP on lighter setups",
+    "compatibility": "FULLY COMPATIBLE",
+    "compatibilityNote": "mGBA runs most GBA software at full speed on a Pi 4. Real-time-clock features in the Pokémon games depend on the core's RTC setting.",
+    "piModels": "Pi 4 or Pi 5 recommended; Pi 3B+ handles most titles with mGBA.",
+    "controller": "A pad with A, B, L, R and Start/Select. Pokémon and Fire Emblem also use the shoulder buttons heavily.",
+    "install": "Install lr-mgba through RetroPie or RetroArch, then copy .gba files into the gba ROM folder.",
+    "difficulty": "Easy",
+    "resources": [
+      { "label": "mGBA project", "url": "https://mgba.io/" },
+      { "label": "RetroPie GBA guide", "url": "https://retropie.org.uk/docs/Game-Boy-Advance/" }
+    ]
+  },
+
+  "nds": {
+    "name": "Nintendo DS",
+    "shortName": "NDS",
+    "folder": "nds",
+    "tagline": "Dual screens, one cartridge",
+    "description": "Nintendo's dual-screen handheld. The inventory contains a single .nds game, Mario Kart DS, plus a save file.",
+    "longDescription": "The Nintendo DS group contains one game image (Mario Kart DS) and one .dsv save file. The save file is a DeSmuME memory card and is not a game, so it is excluded from the library. Dual-screen emulation needs more processing power than the other handhelds in this collection.",
+    "hardware": "ARM9 + ARM7 dual-processor design with two LCD screens",
+    "emulator": "melonDS (retroarch core) or DeSmuME",
+    "compatibility": "PARTIALLY COMPATIBLE",
+    "compatibilityNote": "DS emulation is the heaviest handheld target here. Expect to tune resolution scaling and frameskip on a Pi 4, and expect some titles to remain unplayable.",
+    "piModels": "Pi 4 (4 GB+) or Pi 5. Pi 3-class hardware is not a realistic target for DS emulation.",
+    "controller": "A gamepad plus touch input. Many DS games expect a stylus, which is mapped to the mouse or the right analogue stick on most builds.",
+    "install": "Install lr-melonds through RetroPie's experimental packages, or run melonDS standalone, then copy .nds files into the nds ROM folder.",
+    "difficulty": "Advanced",
+    "resources": [
+      { "label": "melonDS project", "url": "https://melonds.kuribo64.net/" },
+      { "label": "DeSmuME", "url": "https://desmume.org/" }
+    ]
+  },
+
+  "n64": {
+    "name": "Nintendo 64",
+    "shortName": "N64",
+    "folder": "n64",
+    "tagline": "The leap to 3D",
+    "description": "Nintendo's 64-bit console, with four games in the inventory including Super Mario 64 and Majora's Mask.",
+    "longDescription": "The N64 group contains four games plus save files (.eep and .mpk) that are excluded from the library. Super Smash Bros. is stored as a folder in the source listing, so its contents are not itemised. N64 emulation is the most demanding target in this collection.",
+    "hardware": "NEC VR4300 MIPS processor with the Reality Coprocessor",
+    "emulator": "Mupen64Plus (GLideN64 or ParaLLEl-RDP renderer)",
+    "compatibility": "REQUIRES CONFIGURATION",
+    "compatibilityNote": "Frame rate and compatibility vary enormously between plugins and per-game settings. A Pi 4 can run several titles acceptably with tuning; a Pi 5 is a better starting point.",
+    "piModels": "Pi 5 recommended. Pi 4 (4 GB+) can run some titles with reduced resolution and frameskip.",
+    "controller": "An N64-style pad with analogue stick and four C-buttons is ideal; a modern twin-stick pad works with a remap.",
+    "install": "Install lr-mupen64plus-next through RetroPie, then copy .n64/.z64 files into the n64 ROM folder and adjust the per-game core options.",
+    "difficulty": "Advanced",
+    "resources": [
+      { "label": "Mupen64Plus", "url": "https://mupen64plus.org/" },
+      { "label": "RetroPie N64 guide", "url": "https://retropie.org.uk/docs/Nintendo-64/" }
+    ]
+  },
+
+  "homebrew": {
+    "name": "Homebrew (LÖVE)",
+    "shortName": "Homebrew",
+    "folder": "love",
+    "tagline": "Indie games outside the console world",
+    "description": "A single homebrew .love package, Mari0 — a fan-made mash-up of Super Mario Bros. and Portal.",
+    "longDescription": "The love folder contains one file, mari0.love. A .love file is a zip archive containing Lua source and assets for the LÖVE framework, not a console ROM. It runs natively on Linux, so on a Raspberry Pi it needs the LÖVE runtime rather than an emulator.",
+    "hardware": "Native desktop software (LÖVE 2D engine)",
+    "emulator": "No emulator — the LÖVE runtime executes it natively",
+    "compatibility": "REQUIRES CONFIGURATION",
+    "compatibilityNote": "Native Linux software rather than emulation. Performance depends on the Pi model and on whether the game's OpenGL requirements are met by the desktop environment.",
+    "piModels": "Pi 4 or Pi 5 with a desktop environment and working OpenGL drivers.",
+    "controller": "Keyboard and mouse as designed; gamepads can be mapped through the LÖVE joystick API.",
+    "install": "Install the love package from your distribution's repository, then run 'love mari0.love' from a terminal.",
+    "difficulty": "Moderate",
+    "resources": [
+      { "label": "LÖVE framework", "url": "https://love2d.org/" },
+      { "label": "Mari0 project", "url": "https://stabyourself.net/mari0/" }
+    ]
+  }
+}

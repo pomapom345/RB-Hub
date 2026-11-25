@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RB Hub — Your Gateway to Retro Gaming</title>
+<meta name="description" content="RB Hub is a Raspberry Pi retro gaming encyclopedia and collection browser. Explore 1,171 arcade and console games catalogued from the RB Hub inventory, with platform guides, variants and honest emulation notes.">
+<meta name="theme-color" content="#05060f">
+<meta property="og:title" content="RB Hub — Your Gateway to Retro Gaming">
+<meta property="og:description" content="Browse a catalogued collection of arcade and console classics, learn each game's original hardware, and understand how to run it on a Raspberry Pi.">
+<meta property="og:type" content="website">
+<link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<!-- decorative CRT / scanline layer -->
+<div class="crt-layer" aria-hidden="true">
+  <div class="crt-scanlines"></div>
+  <div class="crt-vignette"></div>
+  <div class="crt-flicker"></div>
+</div>
+
+<header class="site-header" id="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="#/" aria-label="RB Hub home">
+      <span class="brand-mark" aria-hidden="true">
+        <svg viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+          <rect x="1" y="1" width="30" height="30" fill="none" stroke="currentColor" stroke-width="2"/>
+          <rect x="5" y="5" width="6" height="6" fill="#00e5ff"/>
+          <rect x="13" y="5" width="6" height="6" fill="#a855f7"/>
+          <rect x="21" y="5" width="6" height="6" fill="#ff3ea5"/>
+          <rect x="5" y="13" width="14" height="6" fill="#39ff88"/>
+          <rect x="21" y="13" width="6" height="6" fill="#00e5ff"/>
+          <rect x="5" y="21" width="6" height="6" fill="#ff3ea5"/>
+          <rect x="13" y="21" width="14" height="6" fill="#a855f7"/>
+        </svg>
+      </span>
+      <span class="brand-text">
+        <span class="brand-name">RB<span class="brand-slash">//</span>HUB</span>
+        <span class="brand-tag">RETRO GAME ARCHIVE</span>
+      </span>
+    </a>
+
+    <nav class="primary-nav" id="primary-nav" aria-label="Main navigation">
+      <ul>
+        <li><a href="#/" data-nav="home">Home</a></li>
+        <li><a href="#/featured" data-nav="featured">Featured</a></li>
+        <li><a href="#/library" data-nav="library">Game Library</a></li>
+        <li><a href="#/platforms" data-nav="platforms">Platforms</a></li>
+        <li><a href="#/guide" data-nav="guide">Pi Guide</a></li>
+        <li><a href="#/about" data-nav="about">About</a></li>
+      </ul>
+      <a class="nav-search" href="#/library?focus=search" data-action="nav-search">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true">
+          <circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5 21 21"/>
+        </svg>
+        <span>Search</span>
+      </a>
+    </nav>
+
+    <button class="burger" id="burger" aria-label="Open menu" aria-expanded="false" aria-controls="primary-nav">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<main id="main" tabindex="-1"></main>
+
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div class="footer-brand">
+      <span class="brand-name">RB<span class="brand-slash">//</span>HUB</span>
+      <p class="footer-tag">Your Gateway to Retro Gaming.</p>
+      <p class="footer-note">An independent, non-commercial reference for a Raspberry Pi retro gaming collection. Not affiliated with Nintendo, Sega, Capcom, Atari, Bandai Namco, Taito, Midway or any other rights holder.</p>
+    </div>
+    <nav class="footer-col" aria-label="Browse">
+      <h2>Browse</h2>
+      <ul>
+        <li><a href="#/library">The Game Library</a></li>
+        <li><a href="#/platforms">Platforms</a></li>
+        <li><a href="#/featured">Top 5 Classics</a></li>
+        <li><a href="#/library?sort=year-asc">Oldest first</a></li>
+      </ul>
+    </nav>
+    <nav class="footer-col" aria-label="Learn">
+      <h2>Learn</h2>
+      <ul>
+        <li><a href="#/guide">Raspberry Pi guide</a></li>
+        <li><a href="#/guide#compatibility">Compatibility labels</a></li>
+        <li><a href="#/about">About RB Hub</a></li>
+        <li><a href="#/about#sources">Data sources</a></li>
+      </ul>
+    </nav>
+    <div class="footer-col footer-legal">
+      <h2>Legal</h2>
+      <p>RB Hub hosts no ROM files and provides no download links. Game names, platforms and artwork references belong to their respective owners. See <a href="#/game/arcade-pac-man" data-legal-link>the legal notes</a> on any game page.</p>
+    </div>
+  </div>
+  <div class="wrap footer-bottom">
+    <p>© <span id="footer-year">2026</span> RB Hub · Built for the Raspberry Pi retro community.</p>
+    <p class="footer-meta" id="footer-meta"></p>
+  </div>
+</footer>
+
+<button class="to-top" id="to-top" aria-label="Back to top" hidden>
+  <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true">
+    <path d="M12 19V5"/><path d="m5.5 11.5 6.5-6.5 6.5 6.5"/>
+  </svg>
+</button>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script src="assets/js/rb-data.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>
+
