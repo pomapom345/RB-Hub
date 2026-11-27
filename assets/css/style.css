@@ -1305,3 +1305,46 @@ details.acc .acc-body { padding: 0 16px 16px; color: var(--muted); font-size: 13
   color: #fff;
 }
 .classic-cover svg { width: 100%; height: auto; }
+
+
+/* 20. About page mobile text overflow fix */
+
+@media (max-width: 560px) {
+
+  /* Keep About page containers within mobile width */
+  .about-grid,
+  .about-grid > *,
+  .about-aside,
+  .panel {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+  }
+
+  /* Allow About page text to wrap naturally */
+  .prose,
+  .prose p,
+  .prose li,
+  .panel p {
+    max-width: 100%;
+    min-width: 0;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    word-break: normal;
+  }
+
+  /* Prevent panel headings from overflowing */
+  .panel-head {
+    min-width: 0;
+    max-width: 100%;
+    flex-wrap: wrap;
+  }
+
+  .panel-head h2,
+  .panel-head h3 {
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+
+}
+
